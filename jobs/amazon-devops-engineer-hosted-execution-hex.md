@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-01-08 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3154896/devops-engineer-hosted-execution-hex) |
+| Category | Operations |
+| Posted | 2026-01-19 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3133508/devops-engineer-hosted-execution-hex) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-01-08.
+This operations position at Amazon was posted on 2026-01-19.
 
 ## Get Real-Time Alerts
 
