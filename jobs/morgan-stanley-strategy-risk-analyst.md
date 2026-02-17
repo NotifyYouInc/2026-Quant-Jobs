@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Budapest, Budapest, Hungary |
-| Category | Strategy And Operations |
+| Category | Strategy & Operations |
 | Posted | 2026-01-19 |
 | Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Budapest-Hungary/Derivatives-Risk-Associate_PT-JR018976) |
 
 ## About This Role
 
-This strategy and operations position at Morgan Stanley was posted on 2026-01-19.
+This strategy & operations position at Morgan Stanley was posted on 2026-01-19.
 
 ## Get Real-Time Alerts
 

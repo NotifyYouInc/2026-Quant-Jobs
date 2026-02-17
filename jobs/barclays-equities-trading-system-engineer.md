@@ -4,7 +4,7 @@
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Glasgow, Scotland, United Kingdom |
-| Category | Devops Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-01-14 |
 | Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Equities-Trading-System-Engineer_JR-0000075817) |
 

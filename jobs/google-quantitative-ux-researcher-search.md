@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Mountain View, California, United States |
-| Category | Data Analyst |
+| Category | UX Researcher |
 | Posted | 2026-01-14 |
 | Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/115522145215226566-quantitative-ux-researcher-search?sort_by=date&page=1) |
 
 ## About This Role
 
-This data analyst position at Google was posted on 2026-01-14.
+This ux researcher position at Google was posted on 2026-01-14.
 
 ## Get Real-Time Alerts
 

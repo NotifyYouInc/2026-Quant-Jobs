@@ -4,7 +4,7 @@
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Warren, Michigan, United States |
-| Category | Qa Engineer |
+| Category | QA Engineer |
 | Posted | 2026-01-20 |
 | Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Quality-Systems-Execution-Engineer_JR-202600143) |
 

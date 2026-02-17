@@ -1,16 +1,16 @@
-# Trading Reliability Engineer at IMC Trading
+# Quantitative Developer at IMC Trading
 
 | Field | Details |
 |-------|---------|
 | Company | [IMC Trading](https://scoutify.ai/companies/imc?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | London, England, United Kingdom |
-| Category | DevOps Engineer |
-| Posted | 2026-01-23 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/imc/jobs/4633994101) |
+| Location | United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/imc/jobs/4778139101) |
 
 ## About This Role
 
-This devops engineer position at IMC Trading was posted on 2026-01-23.
+This machine learning engineer position at IMC Trading was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

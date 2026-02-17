@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-01-12 |
 | Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Vice-president---Engineering-Lead--Credit-Algo-Trade_JR-0000081122-1) |
 
 ## About This Role
 
-This software engineer position at Barclays was posted on 2026-01-12.
+This devops engineer position at Barclays was posted on 2026-01-12.
 
 ## Get Real-Time Alerts
 

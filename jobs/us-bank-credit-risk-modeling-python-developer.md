@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-01-12 |
 | Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Warsaw-Poland/Credit-Risk-Modeling-Python-Developer_2025-0027798) |
 
 ## About This Role
 
-This software engineer position at U.S. Bank was posted on 2026-01-12.
+This devops engineer position at U.S. Bank was posted on 2026-01-12.
 
 ## Get Real-Time Alerts
 

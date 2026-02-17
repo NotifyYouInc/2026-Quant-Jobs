@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-01-13 |
 | Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Associate--Software-Engineer--C--_R260001080) |
 
 ## About This Role
 
-This software engineer position at Bank of Montreal was posted on 2026-01-13.
+This devops engineer position at Bank of Montreal was posted on 2026-01-13.
 
 ## Get Real-Time Alerts
 

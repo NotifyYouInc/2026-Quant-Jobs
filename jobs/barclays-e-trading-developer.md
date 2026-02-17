@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-01-17 |
 | Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/E-Trading-Developer_JR-0000092243-1) |
 
 ## About This Role
 
-This software engineer position at Barclays was posted on 2026-01-17.
+This devops engineer position at Barclays was posted on 2026-01-17.
 
 ## Get Real-Time Alerts
 

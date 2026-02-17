@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Product Marketing Management |
+| Category | Corporate Finance |
 | Posted | 2026-01-13 |
 | Apply | [View on company site](https://jobs.apple.com/en-us/details/200624748-0157/software-engineer-ui-solutions-ai-data-platforms-aidp?team=SFTWR) |
 
 ## About This Role
 
-This product marketing management position at Apple was posted on 2026-01-13.
+This corporate finance position at Apple was posted on 2026-01-13.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Raymond James Financial](https://scoutify.ai/companies/raymondjames?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-01-23 |
 | Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Principal-Engineer--Java-Development--Trading-_R-0008260) |
 
 ## About This Role
 
-This software engineer position at Raymond James Financial was posted on 2026-01-23.
+This devops engineer position at Raymond James Financial was posted on 2026-01-23.
 
 ## Get Real-Time Alerts
 

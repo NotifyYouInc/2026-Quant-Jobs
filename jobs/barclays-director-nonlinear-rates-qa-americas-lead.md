@@ -4,7 +4,7 @@
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | New York, US |
-| Category | Qa Engineer |
+| Category | QA Engineer |
 | Posted | 2026-01-21 |
 | Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/745-7th-Avenue-New-York/Director--Nonlinear-Rates-QA-Americas-Lead_JR-0000088973) |
 

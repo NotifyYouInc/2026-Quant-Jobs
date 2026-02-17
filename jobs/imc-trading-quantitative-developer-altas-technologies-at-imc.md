@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IMC Trading](https://scoutify.ai/companies/imc?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-01-23 |
 | Apply | [View on company site](https://job-boards.eu.greenhouse.io/imc/jobs/4374577101) |
 
 ## About This Role
 
-This software engineer position at IMC Trading was posted on 2026-01-23.
+This devops engineer position at IMC Trading was posted on 2026-01-23.
 
 ## Get Real-Time Alerts
 

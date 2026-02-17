@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WorldQuant](https://scoutify.ai/companies/worldquant?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Singapore |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-01-22 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/worldquant/jobs/4557313006) |
 
 ## About This Role
 
-This software engineer position at WorldQuant was posted on 2026-01-22.
+This technical & solutions architect position at WorldQuant was posted on 2026-01-22.
 
 ## Get Real-Time Alerts
 
