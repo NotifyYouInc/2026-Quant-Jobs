@@ -1,16 +1,16 @@
-# Quantitative Developer  at WorldQuant
+# Quantitative Developer at WorldQuant
 
 | Field | Details |
 |-------|---------|
 | Company | [WorldQuant](https://scoutify.ai/companies/worldquant?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | 2 locations |
+| Location | Budapest, Budapest, Hungary |
 | Category | Quant Developer |
-| Posted | 2026-01-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/worldquant/jobs/4377400006) |
+| Posted | 2026-01-29 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/worldquant/jobs/4648089006) |
 
 ## About This Role
 
-This quant developer position at WorldQuant was posted on 2026-01-12.
+This quant developer position at WorldQuant was posted on 2026-01-29.
 
 ## Get Real-Time Alerts
 
