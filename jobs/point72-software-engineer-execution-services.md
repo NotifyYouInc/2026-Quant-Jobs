@@ -5,12 +5,12 @@
 | Company | [Point72](https://scoutify.ai/companies/point72?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Not specified |
 | Category | Software Engineer |
-| Posted | 2026-01-14 |
-| Apply | [View on company site](https://boards.greenhouse.io/point72/jobs/8356789002?gh_jid=8356789002) |
+| Posted | 2026-01-20 |
+| Apply | [View on company site](https://boards.greenhouse.io/point72/jobs/8356786002?gh_jid=8356786002) |
 
 ## About This Role
 
-This software engineer position at Point72 was posted on 2026-01-14.
+This software engineer position at Point72 was posted on 2026-01-20.
 
 ## Get Real-Time Alerts
 
