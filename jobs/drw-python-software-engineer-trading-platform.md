@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DRW](https://scoutify.ai/companies/drweng?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Not specified |
 | Category | Software Engineer |
-| Posted | 2026-01-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/drweng/jobs/7545859) |
+| Posted | 2026-01-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/drweng/jobs/7534910) |
 
 ## About This Role
 
-This software engineer position at DRW was posted on 2026-01-17.
+This software engineer position at DRW was posted on 2026-01-20.
 
 ## Get Real-Time Alerts
 
