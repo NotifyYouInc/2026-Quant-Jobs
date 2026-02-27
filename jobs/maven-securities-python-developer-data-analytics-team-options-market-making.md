@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Maven Securities](https://scoutify.ai/companies/mavensecuritiesholdingltd?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | London, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-01-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7540304) |
+| Posted | 2026-01-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7163447) |
 
 ## About This Role
 
-This software engineer position at Maven Securities was posted on 2026-01-20.
+This software engineer position at Maven Securities was posted on 2026-01-22.
 
 ## Get Real-Time Alerts
 

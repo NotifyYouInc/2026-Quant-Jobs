@@ -1,16 +1,16 @@
-# Software Engineer, Execution Services  at Point72
+# Software Engineer, Execution Services at Point72
 
 | Field | Details |
 |-------|---------|
 | Company | [Point72](https://scoutify.ai/companies/point72?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Not specified |
+| Location | Stamford, Connecticut, United States |
 | Category | Software Engineer |
-| Posted | 2026-01-20 |
-| Apply | [View on company site](https://boards.greenhouse.io/point72/jobs/8356786002?gh_jid=8356786002) |
+| Posted | 2026-01-21 |
+| Apply | [View on company site](https://boards.greenhouse.io/point72/jobs/8377040002?gh_jid=8377040002) |
 
 ## About This Role
 
-This software engineer position at Point72 was posted on 2026-01-20.
+This software engineer position at Point72 was posted on 2026-01-21.
 
 ## Get Real-Time Alerts
 
