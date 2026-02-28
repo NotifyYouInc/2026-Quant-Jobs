@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-01-21 |
-| Apply | [View on company site](https://ibmglobal.avature.net/careers/JobDetail?jobId=60314) |
+| Posted | 2026-01-28 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=60314) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-01-21.
+This software engineer position at IBM was posted on 2026-01-28.
 
 ## Get Real-Time Alerts
 
