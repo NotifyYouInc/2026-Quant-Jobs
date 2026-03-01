@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Maven Securities](https://scoutify.ai/companies/mavensecuritiesholdingltd?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
+| Location | London, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-01-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/6486421) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/6049003) |
 
 ## About This Role
 
-This software engineer position at Maven Securities was posted on 2026-01-22.
+This software engineer position at Maven Securities was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 
