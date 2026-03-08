@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WorldQuant](https://scoutify.ai/companies/worldquant?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Budapest, Budapest, Hungary |
+| Location | Montevideo, Montevideo Department, Uruguay |
 | Category | Quant Developer |
-| Posted | 2026-01-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/worldquant/jobs/4648089006) |
+| Posted | 2026-01-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/worldquant/jobs/4649674006) |
 
 ## About This Role
 
-This quant developer position at WorldQuant was posted on 2026-01-29.
+This quant developer position at WorldQuant was posted on 2026-01-30.
 
 ## Get Real-Time Alerts
 
