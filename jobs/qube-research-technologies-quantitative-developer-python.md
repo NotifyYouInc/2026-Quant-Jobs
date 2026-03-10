@@ -1,16 +1,16 @@
-# Quantitative Developer - Python  at Qube Research & Technologies
+# Quantitative Developer - Python at Qube Research & Technologies
 
 | Field | Details |
 |-------|---------|
 | Company | [Qube Research & Technologies](https://scoutify.ai/companies/qube-research-technologies?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Paris, Île-de-France, France |
 | Category | Software Engineer |
-| Posted | 2026-01-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8390798002) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8431167002) |
 
 ## About This Role
 
-This software engineer position at Qube Research & Technologies was posted on 2026-01-26.
+This software engineer position at Qube Research & Technologies was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 
