@@ -1,16 +1,16 @@
-# Algo Trading Developer - Fixed Income Technology  - AVP at Citigroup
+# Senior Java Algo Developer, Equities, Senior Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Paris, Île-de-France, France |
-| Category | Quant Developer |
+| Location | Jersey City, New Jersey, United States |
+| Category | Software Engineer |
 | Posted | 2026-03-03 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Paris--France/Algo-Trading-Developer---Fixed-Income-Technology----AVP_26943108) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Senior-Java-Algo-Developer--Equities--Senior-Vice-President_26940868) |
 
 ## About This Role
 
-This quant developer position at Citigroup was posted on 2026-03-03.
+This software engineer position at Citigroup was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 
