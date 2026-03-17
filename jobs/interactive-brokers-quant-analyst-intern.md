@@ -1,16 +1,16 @@
-# Quantitative Developer  at WorldQuant
+# Quant Analyst Intern at Interactive Brokers
 
 | Field | Details |
 |-------|---------|
-| Company | [WorldQuant](https://scoutify.ai/companies/worldquant?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Ramat Gan, Tel Aviv, Israel |
+| Company | [Interactive Brokers](https://scoutify.ai/companies/ibkr?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | Connecticut, US |
 | Category | Quant Developer |
 | Posted | 2026-03-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/worldquant/jobs/4649227006) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/ibkr/jobs/8442904002) |
 
 ## About This Role
 
-This quant developer position at WorldQuant was posted on 2026-03-09.
+This quant developer position at Interactive Brokers was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

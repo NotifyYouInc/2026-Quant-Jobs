@@ -1,16 +1,16 @@
-# Quantitative Developer  at WorldQuant
+# Quant Trader - Equities  at IMC Trading
 
 | Field | Details |
 |-------|---------|
-| Company | [WorldQuant](https://scoutify.ai/companies/worldquant?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Ramat Gan, Tel Aviv, Israel |
+| Company | [IMC Trading](https://scoutify.ai/companies/imc?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | Seoul, Seoul, South Korea |
 | Category | Quant Developer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/worldquant/jobs/4649227006) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/imc/jobs/4801499101) |
 
 ## About This Role
 
-This quant developer position at WorldQuant was posted on 2026-03-09.
+This quant developer position at IMC Trading was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 
