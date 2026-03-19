@@ -1,16 +1,16 @@
-# Quantitative Strategist, Macro Technology  at Point72
+# Quantitative AI Strategist at DRW
 
 | Field | Details |
 |-------|---------|
-| Company | [Point72](https://scoutify.ai/companies/point72?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Company | [DRW](https://scoutify.ai/companies/drweng?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | New York City, New York, United States |
-| Category | Data Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://boards.greenhouse.io/point72/jobs/8408283002?gh_jid=8408283002) |
+| Category | Quant Developer |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/drweng/jobs/7701691) |
 
 ## About This Role
 
-This data engineer position at Point72 was posted on 2026-02-12.
+This quant developer position at DRW was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 
