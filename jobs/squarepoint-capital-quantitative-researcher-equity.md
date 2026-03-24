@@ -1,16 +1,16 @@
-# Quantitative Developer at Barclays
+# Quantitative Researcher - Equity at Squarepoint Capital
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Squarepoint Capital](https://scoutify.ai/companies/squarepointcapital?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | New York, US |
 | Category | Quant Developer |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Quantitative-Developer_JR-0000102423) |
+| Apply | [View on company site](https://www.squarepoint-capital.com/open-opportunities?id=7701822&gh_jid=7701822) |
 
 ## About This Role
 
-This quant developer position at Barclays was posted on 2026-03-16.
+This quant developer position at Squarepoint Capital was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 
