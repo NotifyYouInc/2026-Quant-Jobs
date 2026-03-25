@@ -1,16 +1,16 @@
-# VP, Quantitative Developer at Galaxy
+# Senior Quantitative Researcher at DV Trading
 
 | Field | Details |
 |-------|---------|
-| Company | [Galaxy](https://scoutify.ai/companies/galaxydigitalservices?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Not specified |
+| Company | [DV Trading](https://scoutify.ai/companies/dvtrading?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Quant Developer |
 | Posted | 2026-03-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5830323004) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dvtrading/jobs/4674071005) |
 
 ## About This Role
 
-This quant developer position at Galaxy was posted on 2026-03-17.
+This quant developer position at DV Trading was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

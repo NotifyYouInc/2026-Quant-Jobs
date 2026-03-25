@@ -1,16 +1,16 @@
-# VP, Quantitative Developer at Galaxy
+# Quantitative Developer - Java at Binance
 
 | Field | Details |
 |-------|---------|
-| Company | [Galaxy](https://scoutify.ai/companies/galaxydigitalservices?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Not specified |
-| Category | Quant Developer |
+| Company | [Binance](https://scoutify.ai/companies/binance?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | Hong Kong, Hong Kong |
+| Category | Software Engineer |
 | Posted | 2026-03-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5830323004) |
+| Apply | [View on company site](https://jobs.lever.co/binance/97b01aae-f5dc-489a-9683-e9858adca807) |
 
 ## About This Role
 
-This quant developer position at Galaxy was posted on 2026-03-17.
+This software engineer position at Binance was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 
