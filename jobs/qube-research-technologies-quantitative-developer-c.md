@@ -1,16 +1,16 @@
-# Quantitative Developer - C++ at Qube Research & Technologies
+# Quantitative Developer - C# at Qube Research & Technologies
 
 | Field | Details |
 |-------|---------|
 | Company | [Qube Research & Technologies](https://scoutify.ai/companies/qube-research-technologies?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Shanghai, Shanghai, China |
-| Category | Quant Developer |
-| Posted | 2026-01-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8388215002) |
+| Location | Paris, Île-de-France, France |
+| Category | Software Engineer |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/7644550002) |
 
 ## About This Role
 
-This quant developer position at Qube Research & Technologies was posted on 2026-01-23.
+This software engineer position at Qube Research & Technologies was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 
