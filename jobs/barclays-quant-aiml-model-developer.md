@@ -1,16 +1,16 @@
-# Quant AI/ML Model developer at Barclays
+# Quant AI/ML model developer at Barclays
 
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | London, England, United Kingdom |
-| Category | AI / LLM Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Quant-AI-ML-Model-developer_JR-0000096552) |
+| Location | Prague, Prague, Czechia |
+| Category | Quant Developer |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gemini-Building-B-Prague/Quant-AI-ML-model-developer_JR-0000096548) |
 
 ## About This Role
 
-This ai / llm engineer position at Barclays was posted on 2026-02-25.
+This quant developer position at Barclays was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 
