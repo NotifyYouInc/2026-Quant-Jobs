@@ -1,16 +1,16 @@
-# Quantitative Analyst at Invesco
+# Quantitative Systems Associate at MFS
 
 | Field | Details |
 |-------|---------|
-| Company | [Invesco](https://scoutify.ai/companies/invesco?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Company | [MFS](https://scoutify.ai/companies/mfs?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | Boston, Massachusetts, United States |
 | Category | Quant Developer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Quantitative-Analyst_R-13594) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://mfs.wd1.myworkdayjobs.com/MFS-Careers/job/Boston/Quantitative-Systems-Associate_MFS-231688) |
 
 ## About This Role
 
-This quant developer position at Invesco was posted on 2026-04-03.
+This quant developer position at MFS was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 
