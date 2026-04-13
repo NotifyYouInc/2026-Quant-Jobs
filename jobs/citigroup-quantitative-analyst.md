@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | New York, US |
 | Category | Quant Developer |
-| Posted | 2026-03-07 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Quantitative-Analyst_26939382) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Quantitative-Analyst_26941692) |
 
 ## About This Role
 
-This quant developer position at Citigroup was posted on 2026-03-07.
+This quant developer position at Citigroup was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 
