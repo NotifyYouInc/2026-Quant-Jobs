@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Software Engineer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/London-England/Senior-eFX-Developer-High-Frequency-Trading--Vice-President_R-781735) |
+| Category | Quant Developer |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/London-England/Senior-eFX-Developer-High-Frequency-Trading--Vice-President_R-784809) |
 
 ## About This Role
 
-This software engineer position at State Street was posted on 2026-02-03.
+This quant developer position at State Street was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 
