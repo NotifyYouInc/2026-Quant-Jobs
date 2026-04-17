@@ -1,16 +1,16 @@
-# Quantitative Analyst, Vice President at Citigroup
+# Model Developer, Trading and Client Controls at Deutsche Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Quant Developer |
+| Category | Industrial Automation |
 | Posted | 2026-04-09 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Quantitative-Analyst--Vice-President_26952431) |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/London-21-Moorfields/Quantitative-Data-Scientist_R0392624) |
 
 ## About This Role
 
-This quant developer position at Citigroup was posted on 2026-04-09.
+This industrial automation position at Deutsche Bank was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

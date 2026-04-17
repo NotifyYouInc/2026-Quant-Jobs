@@ -1,16 +1,16 @@
-# Quantitative Analyst, Vice President at Citigroup
+# Math Game Designer at Playtech
 
 | Field | Details |
 |-------|---------|
-| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Playtech](https://scoutify.ai/companies/playtech?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | Kyiv, Kyiv City, Ukraine |
 | Category | Quant Developer |
 | Posted | 2026-04-09 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Quantitative-Analyst--Vice-President_26952431) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000119527477-math-game-designer) |
 
 ## About This Role
 
-This quant developer position at Citigroup was posted on 2026-04-09.
+This quant developer position at Playtech was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

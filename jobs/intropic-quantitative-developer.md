@@ -1,16 +1,16 @@
-# Quantitative Analyst, Vice President at Citigroup
+# Quantitative Developer at Intropic
 
 | Field | Details |
 |-------|---------|
-| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Company | [Intropic](https://scoutify.ai/companies/intropic?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Quant Developer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Quantitative-Analyst--Vice-President_26952431) |
+| Posted | 2026-01-23 |
+| Apply | [View on company site](https://jobs.lever.co/intropic/e7f90e06-05e2-40d8-b9f5-df4c96792dd2) |
 
 ## About This Role
 
-This quant developer position at Citigroup was posted on 2026-04-09.
+This quant developer position at Intropic was posted on 2026-01-23.
 
 ## Get Real-Time Alerts
 
