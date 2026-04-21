@@ -1,16 +1,16 @@
-# 2026 - Internship, Quantitative Developer at Qube Research & Technologies
+# Risk Automation Lead at Man Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Qube Research & Technologies](https://scoutify.ai/companies/qube-research-technologies?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Company | [Man Group](https://scoutify.ai/companies/mangroup?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Quant Developer |
 | Posted | 2026-04-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8068131002) |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/mangroup/jobs/4839430101) |
 
 ## About This Role
 
-This quant developer position at Qube Research & Technologies was posted on 2026-04-13.
+This quant developer position at Man Group was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

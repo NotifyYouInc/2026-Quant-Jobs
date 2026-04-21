@@ -1,16 +1,16 @@
-# Custom Software Engineer at Accenture
+# Quantum Primitives Software Developer at IBM
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | Canada |
 | Category | Software Engineer |
 | Posted | 2026-04-13 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Custom-Software-Engineer_ATCI-5436073-S1985663-1) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=109559) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-04-13.
+This software engineer position at IBM was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 
