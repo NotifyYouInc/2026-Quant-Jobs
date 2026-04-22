@@ -1,16 +1,16 @@
-# Operations Engineer, AMZL Start-Up Execution at Amazon
+# Operations Engineer, AMZL Start Up Execution at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Phoenix, Arizona, United States |
-| Category | Operations |
-| Posted | 2026-01-13 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3157673/operations-engineer-amzl-start-up-execution) |
+| Location | Arlington Heights, Illinois, United States |
+| Category | Industrial Automation |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10390751/operations-engineer-amzl-start-up-execution) |
 
 ## About This Role
 
-This operations position at Amazon was posted on 2026-01-13.
+This industrial automation position at Amazon was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 
