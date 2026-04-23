@@ -5,12 +5,12 @@
 | Company | [Arrowstreet Capital](https://scoutify.ai/companies/arrowstreetcapital?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Quant Developer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://arrowstreetcapital.wd5.myworkdayjobs.com/Arrowstreet/job/Boston/Quantitative-Developer_R1433-1) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://arrowstreetcapital.wd5.myworkdayjobs.com/Arrowstreet/job/Boston/Quantitative-Developer_R1383-1) |
 
 ## About This Role
 
-This quant developer position at Arrowstreet Capital was posted on 2026-02-17.
+This quant developer position at Arrowstreet Capital was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 
