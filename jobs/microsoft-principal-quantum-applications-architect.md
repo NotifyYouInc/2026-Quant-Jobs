@@ -1,16 +1,16 @@
-# VP, Quantitative Developer at Galaxy
+# Principal Quantum Applications Architect at Microsoft
 
 | Field | Details |
 |-------|---------|
-| Company | [Galaxy](https://scoutify.ai/companies/galaxydigitalservices?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | Redmond, Washington, United States |
 | Category | Quant Developer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5832113004) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556858568) |
 
 ## About This Role
 
-This quant developer position at Galaxy was posted on 2026-03-19.
+This quant developer position at Microsoft was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

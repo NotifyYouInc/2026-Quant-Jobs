@@ -1,16 +1,16 @@
-# VP, Quantitative Developer at Galaxy
+# Analyst, Quantitative Analyst - Risk Analytics Group at Mitsubishi UFG
 
 | Field | Details |
 |-------|---------|
-| Company | [Galaxy](https://scoutify.ai/companies/galaxydigitalservices?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Company | [Mitsubishi UFG](https://scoutify.ai/companies/mufgub?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Quant Developer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5832113004) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/London/Analyst--Quantitative-Analyst---Risk-Analytics-Group_10071154-WD) |
 
 ## About This Role
 
-This quant developer position at Galaxy was posted on 2026-03-19.
+This quant developer position at Mitsubishi UFG was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 
