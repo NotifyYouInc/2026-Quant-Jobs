@@ -1,16 +1,16 @@
-# Equities Trading System Engineer at Barclays
+# IB Quant Analyst at Barclays
 
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | London, England, United Kingdom |
-| Category | IT & Systems Administration |
+| Location | Noida, Uttar Pradesh, India |
+| Category | Quant Developer |
 | Posted | 2026-04-17 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Equities-Trading-System-Engineer_JR-0000091424) |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Noida-Candor-TechSpace/IB-Quant-Analyst_JR-0000082919) |
 
 ## About This Role
 
-This it & systems administration position at Barclays was posted on 2026-04-17.
+This quant developer position at Barclays was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 
