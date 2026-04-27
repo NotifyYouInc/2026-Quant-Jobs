@@ -5,12 +5,12 @@
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Engineering Manager |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Quantitative-Development-Manager_R-00274422) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Quantitative-Development-Manager_R-00272472) |
 
 ## About This Role
 
-This engineering manager position at NatWest Group was posted on 2026-03-06.
+This engineering manager position at NatWest Group was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 
