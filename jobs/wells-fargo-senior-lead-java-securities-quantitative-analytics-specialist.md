@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | 2 locations |
 | Category | Quant Developer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Lead-Java-Securities-Quantitative-Analytics-Specialist_R-522897-1) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/NEW-YORK-NY/Senior-Lead-Java-Securities-Quantitative-Analytics-Specialist_R-539310) |
 
 ## About This Role
 
-This quant developer position at Wells Fargo was posted on 2026-02-25.
+This quant developer position at Wells Fargo was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 
