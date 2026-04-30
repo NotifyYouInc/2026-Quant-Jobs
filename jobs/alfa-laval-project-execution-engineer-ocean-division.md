@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alfa Laval](https://scoutify.ai/companies/alfa-laval?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Location | Singapore, Singapore |
 | Category | Project Manager |
-| Posted | 2026-01-19 |
-| Apply | [View on company site](https://alfalaval.wd3.myworkdayjobs.com/alfa_laval_jobs/job/Ho-Chi-Minh-City/Project-Execution-Engineer--Ocean-Division_JR0042611) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://alfalaval.wd3.myworkdayjobs.com/alfa_laval_jobs/job/Singapore/Project-Execution-Engineer--Ocean-Division_JR0044908) |
 
 ## About This Role
 
-This project manager position at Alfa Laval was posted on 2026-01-19.
+This project manager position at Alfa Laval was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 
