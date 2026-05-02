@@ -1,16 +1,16 @@
-# QAWCR modeller at Barclays
+# Risk Methodology Senior Lead (f/m/x) at Deutsche Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Glasgow, Scotland, United Kingdom |
+| Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | Germany |
 | Category | Quant Developer |
 | Posted | 2026-04-24 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/QAWCR-modeller_JR-0000107338) |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Frankfurt-Taunusanlage-12/Risk-Methodology-Senior-Lead--f-m-x-_R0430980-1) |
 
 ## About This Role
 
-This quant developer position at Barclays was posted on 2026-04-24.
+This quant developer position at Deutsche Bank was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

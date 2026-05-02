@@ -1,16 +1,16 @@
-# QAWCR modeller at Barclays
+# Quantitative Operations Officer II at Truist
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Glasgow, Scotland, United Kingdom |
+| Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | Atlanta, Georgia, United States |
 | Category | Quant Developer |
 | Posted | 2026-04-24 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/QAWCR-modeller_JR-0000107338) |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Quantitative-Operations-Officer-II_R0108263) |
 
 ## About This Role
 
-This quant developer position at Barclays was posted on 2026-04-24.
+This quant developer position at Truist was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

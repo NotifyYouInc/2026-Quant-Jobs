@@ -1,16 +1,16 @@
-# QAWCR modeller at Barclays
+# Power & Gas Valuations Analyst  at Engelhart
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Glasgow, Scotland, United Kingdom |
+| Company | [Engelhart](https://scoutify.ai/companies/engelhart?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | Houston, Texas, United States |
 | Category | Quant Developer |
 | Posted | 2026-04-24 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/QAWCR-modeller_JR-0000107338) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/engelhart/jobs/7851493) |
 
 ## About This Role
 
-This quant developer position at Barclays was posted on 2026-04-24.
+This quant developer position at Engelhart was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

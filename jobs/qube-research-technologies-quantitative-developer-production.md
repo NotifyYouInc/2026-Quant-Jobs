@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Qube Research & Technologies](https://scoutify.ai/companies/qube-research-technologies?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | London, England, United Kingdom |
+| Location | 2 locations |
 | Category | Quant Developer |
-| Posted | 2026-01-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8386092002) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8522136002) |
 
 ## About This Role
 
-This quant developer position at Qube Research & Technologies was posted on 2026-01-27.
+This quant developer position at Qube Research & Technologies was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

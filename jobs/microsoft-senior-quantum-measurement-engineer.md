@@ -1,16 +1,16 @@
-# QAWCR modeller at Barclays
+# Senior Quantum Measurement Engineer at Microsoft
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Glasgow, Scotland, United Kingdom |
+| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | Delft, South Holland, The Netherlands |
 | Category | Quant Developer |
 | Posted | 2026-04-24 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/QAWCR-modeller_JR-0000107338) |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556860863) |
 
 ## About This Role
 
-This quant developer position at Barclays was posted on 2026-04-24.
+This quant developer position at Microsoft was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 
