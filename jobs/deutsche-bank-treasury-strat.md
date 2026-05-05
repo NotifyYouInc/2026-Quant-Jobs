@@ -1,16 +1,16 @@
-# Global Markets Liquid Financing Quantitative Analyst at Barclays
+# Treasury Strat at Deutsche Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Quant Developer |
 | Posted | 2026-04-27 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Global-Markets-Liquid-Financing-Quantitative-Analyst_JR-0000104989) |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/London-21-Moorfields/Treasury-Strat_R0429037-1) |
 
 ## About This Role
 
-This quant developer position at Barclays was posted on 2026-04-27.
+This quant developer position at Deutsche Bank was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 
