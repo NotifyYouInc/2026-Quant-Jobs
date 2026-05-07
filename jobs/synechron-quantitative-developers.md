@@ -1,16 +1,16 @@
-# Quantitative Trading Engineer at Deutsche Bank
+# Quantitative Developers at Synechron
 
 | Field | Details |
 |-------|---------|
-| Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | 2 locations |
 | Category | Quant Developer |
 | Posted | 2026-04-29 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/London-21-Moorfields/Quantitative-Trading-Engineer_R0430030) |
+| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Toronto-ON/Quantitative-Developers_JR1039198) |
 
 ## About This Role
 
-This quant developer position at Deutsche Bank was posted on 2026-04-29.
+This quant developer position at Synechron was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

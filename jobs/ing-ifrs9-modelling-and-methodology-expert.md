@@ -1,16 +1,16 @@
-# Quantitative Trading Engineer at Deutsche Bank
+# IFRS9 Modelling and Methodology Expert at ING
 
 | Field | Details |
 |-------|---------|
-| Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | Poland |
 | Category | Quant Developer |
 | Posted | 2026-04-29 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/London-21-Moorfields/Quantitative-Trading-Engineer_R0430030) |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Warszawa-Paska-97/IFRS9-Modelling-and-Methodology-Expert_REQ-10114087-1) |
 
 ## About This Role
 
-This quant developer position at Deutsche Bank was posted on 2026-04-29.
+This quant developer position at ING was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 
