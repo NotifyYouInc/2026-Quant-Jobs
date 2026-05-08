@@ -1,16 +1,16 @@
-# Quantitative Developer at Numerix
+# Technicien Nanofabrication en Alternance H/F at Alice Bob
 
 | Field | Details |
 |-------|---------|
-| Company | [Numerix](https://scoutify.ai/companies/numerix?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Canada |
+| Company | [Alice Bob](https://scoutify.ai/companies/alice-bob?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | 2 locations |
 | Category | Quant Developer |
 | Posted | 2026-04-30 |
-| Apply | [View on company site](https://www.numerix.com/numerix-job-opportunities?gh_jid=5203794008) |
+| Apply | [View on company site](https://jobs.lever.co/alice-bob/e041ee24-7337-4187-b720-acf28aea5a8f) |
 
 ## About This Role
 
-This quant developer position at Numerix was posted on 2026-04-30.
+This quant developer position at Alice Bob was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

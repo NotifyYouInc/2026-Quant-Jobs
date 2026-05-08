@@ -1,16 +1,16 @@
-# Quantitative Developer at Numerix
+# Quantum Hardware Engineer at Microsoft
 
 | Field | Details |
 |-------|---------|
-| Company | [Numerix](https://scoutify.ai/companies/numerix?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Canada |
-| Category | Quant Developer |
+| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | Denmark |
+| Category | Electrical / Hardware Engineer |
 | Posted | 2026-04-30 |
-| Apply | [View on company site](https://www.numerix.com/numerix-job-opportunities?gh_jid=5203794008) |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556862518) |
 
 ## About This Role
 
-This quant developer position at Numerix was posted on 2026-04-30.
+This electrical / hardware engineer position at Microsoft was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

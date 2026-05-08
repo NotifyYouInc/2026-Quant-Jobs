@@ -1,16 +1,16 @@
-# Quantitative Developer at Numerix
+# Quant - Risk at SwissBorg
 
 | Field | Details |
 |-------|---------|
-| Company | [Numerix](https://scoutify.ai/companies/numerix?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Canada |
+| Company | [SwissBorg](https://scoutify.ai/companies/swissborg?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | Not specified |
 | Category | Quant Developer |
 | Posted | 2026-04-30 |
-| Apply | [View on company site](https://www.numerix.com/numerix-job-opportunities?gh_jid=5203794008) |
+| Apply | [View on company site](https://jobs.lever.co/swissborg/e0c291b1-4498-4bf2-91b4-ea114c381c53) |
 
 ## About This Role
 
-This quant developer position at Numerix was posted on 2026-04-30.
+This quant developer position at SwissBorg was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

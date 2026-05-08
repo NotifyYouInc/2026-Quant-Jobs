@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Worcester, Massachusetts, United States |
-| Category | Software Engineer |
-| Posted | 2026-01-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011378306-senior-manufacturing-execution-systems-mes-engineer) |
+| Category | Industrial Automation |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012912150-senior-manufacturing-execution-systems-mes-engineer) |
 
 ## About This Role
 
-This software engineer position at AbbVie was posted on 2026-01-27.
+This industrial automation position at AbbVie was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

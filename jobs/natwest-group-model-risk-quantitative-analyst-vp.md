@@ -1,16 +1,16 @@
-# Quantitative Developer at Numerix
+# Model Risk Quantitative Analyst, VP at NatWest Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Numerix](https://scoutify.ai/companies/numerix?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Canada |
+| Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | 2 locations |
 | Category | Quant Developer |
 | Posted | 2026-04-30 |
-| Apply | [View on company site](https://www.numerix.com/numerix-job-opportunities?gh_jid=5203794008) |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Model-Risk-Quantitative-Analyst--VP_R-00277512-1) |
 
 ## About This Role
 
-This quant developer position at Numerix was posted on 2026-04-30.
+This quant developer position at NatWest Group was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

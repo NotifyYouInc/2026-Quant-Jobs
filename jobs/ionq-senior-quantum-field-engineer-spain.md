@@ -1,16 +1,16 @@
-# Quantitative Developer at Numerix
+# Senior Quantum Field Engineer - Spain at IonQ
 
 | Field | Details |
 |-------|---------|
-| Company | [Numerix](https://scoutify.ai/companies/numerix?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Canada |
-| Category | Quant Developer |
+| Company | [IonQ](https://scoutify.ai/companies/ionq?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | Madrid, Madrid, Spain |
+| Category | Sales Engineer |
 | Posted | 2026-04-30 |
-| Apply | [View on company site](https://www.numerix.com/numerix-job-opportunities?gh_jid=5203794008) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/ionq/jobs/5821566004) |
 
 ## About This Role
 
-This quant developer position at Numerix was posted on 2026-04-30.
+This sales engineer position at IonQ was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 
