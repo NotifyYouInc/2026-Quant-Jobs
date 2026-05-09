@@ -1,16 +1,16 @@
-# Quantitative Developer, VP at Citigroup
+# Quantitative Risk Manager at LSEG
 
 | Field | Details |
 |-------|---------|
-| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Quant Developer |
+| Category | Compliance & Risk Management |
 | Posted | 2026-05-01 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Quantitative-Developer--VP_26959361) |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Quantitative-Risk-Manager_R0118628-1) |
 
 ## About This Role
 
-This quant developer position at Citigroup was posted on 2026-05-01.
+This compliance & risk management position at LSEG was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

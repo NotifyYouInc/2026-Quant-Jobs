@@ -1,16 +1,16 @@
-# Quantitative Developer, VP at Citigroup
+# Senior Quantitative Specialist at U.S. Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | 4 locations |
 | Category | Quant Developer |
 | Posted | 2026-05-01 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Quantitative-Developer--VP_26959361) |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Loughlinstown-Ireland/Senior-Quantitative-Developer_2026-0009777) |
 
 ## About This Role
 
-This quant developer position at Citigroup was posted on 2026-05-01.
+This quant developer position at U.S. Bank was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

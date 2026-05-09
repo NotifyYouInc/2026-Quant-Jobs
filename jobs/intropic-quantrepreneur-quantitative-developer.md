@@ -1,16 +1,16 @@
-# Quantitative Developer, VP at Citigroup
+# Quantrepreneur - Quantitative Developer at Intropic
 
 | Field | Details |
 |-------|---------|
-| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Company | [Intropic](https://scoutify.ai/companies/intropic?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Quant Developer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Quantitative-Developer--VP_26959361) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.lever.co/intropic/1427876a-fb80-4ee1-96da-79cac32a7803) |
 
 ## About This Role
 
-This quant developer position at Citigroup was posted on 2026-05-01.
+This quant developer position at Intropic was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 
