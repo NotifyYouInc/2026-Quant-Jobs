@@ -1,16 +1,16 @@
-# Quantitative Analytics Tech Lead at Freddie Mac
+# Quantitative Analytics Tech Lead – Economic Modeling at Freddie Mac
 
 | Field | Details |
 |-------|---------|
 | Company | [Freddie Mac](https://scoutify.ai/companies/freddiemac?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | McLean, Virginia, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Quantitative-Analytics-Tech-Lead_JR16958) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Quantitative-Analytics-Tech-Lead---Economic-Modeling_JR17198) |
 
 ## About This Role
 
-This software engineer position at Freddie Mac was posted on 2026-04-10.
+This software engineer position at Freddie Mac was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

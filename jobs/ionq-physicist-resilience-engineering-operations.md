@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IonQ](https://scoutify.ai/companies/ionq?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Bothell, Washington, United States |
+| Location | Boulder, Colorado, United States |
 | Category | Quant Developer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/ionq/jobs/5848619004) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/ionq/jobs/5972675004) |
 
 ## About This Role
 
-This quant developer position at IonQ was posted on 2026-04-08.
+This quant developer position at IonQ was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

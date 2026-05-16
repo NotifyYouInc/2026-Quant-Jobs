@@ -1,16 +1,16 @@
-# Senior kdb+ Developer at Data Intellect
+# Quantitative Analytics - AVP at Barclays
 
 | Field | Details |
 |-------|---------|
-| Company | [Data Intellect](https://scoutify.ai/companies/data-intellect?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Quant Developer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/dataintellect/744000112962612-senior-kdb-developer) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Quantitative-Analytics---AVP_JR-0000092273) |
 
 ## About This Role
 
-This quant developer position at Data Intellect was posted on 2026-03-05.
+This quant developer position at Barclays was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

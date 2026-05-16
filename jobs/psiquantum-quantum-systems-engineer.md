@@ -1,16 +1,16 @@
-# Math Game Designer at Playtech
+# Quantum Systems Engineer at PsiQuantum
 
 | Field | Details |
 |-------|---------|
-| Company | [Playtech](https://scoutify.ai/companies/playtech?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Sofia, Sofia-Capital, Bulgaria |
+| Company | [PsiQuantum](https://scoutify.ai/companies/psiquantum?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | Daresbury, England, United Kingdom |
 | Category | Quant Developer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000122265197-math-game-designer) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://www.psiquantum.com/apply?gh_jid=7728549003) |
 
 ## About This Role
 
-This quant developer position at Playtech was posted on 2026-04-22.
+This quant developer position at PsiQuantum was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

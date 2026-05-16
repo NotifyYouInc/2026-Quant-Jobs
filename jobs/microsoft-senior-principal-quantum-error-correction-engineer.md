@@ -1,16 +1,16 @@
-# Math Game Designer at Playtech
+# Senior / Principal Quantum Error Correction Engineer at Microsoft
 
 | Field | Details |
 |-------|---------|
-| Company | [Playtech](https://scoutify.ai/companies/playtech?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Sofia, Sofia-Capital, Bulgaria |
+| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | Denmark |
 | Category | Quant Developer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000122265197-math-game-designer) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556864557) |
 
 ## About This Role
 
-This quant developer position at Playtech was posted on 2026-04-22.
+This quant developer position at Microsoft was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 
