@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wintermute Trading](https://scoutify.ai/companies/wintermute-trading-106987?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | United States |
+| Location | Singapore, Singapore |
 | Category | Quant Developer |
-| Posted | 2024-12-09 |
-| Apply | [View on company site](https://jobs.lever.co/wintermute-trading/26c45d48-38d0-43a0-a85f-8591753f392d) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.lever.co/wintermute-trading/f512e856-a6e8-4aac-bae1-430b2ed0ea57) |
 
 ## About This Role
 
-This quant developer position at Wintermute Trading was posted on 2024-12-09.
+This quant developer position at Wintermute Trading was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 
