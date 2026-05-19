@@ -1,16 +1,16 @@
-# Quant Analyst, AVP at Barclays
+# FX Macro FX Desk Quant, ED at Wells Fargo
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | New York City, New York, United States |
+| Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | City of London, England, United Kingdom |
 | Category | Quant Developer |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Quant-Analyst--AVP_JR-0000111829) |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CITY-OF-LONDON/FX-Macro-FX-Desk-Quant--ED_R-543687) |
 
 ## About This Role
 
-This quant developer position at Barclays was posted on 2026-05-11.
+This quant developer position at Wells Fargo was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 
