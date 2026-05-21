@@ -1,16 +1,16 @@
-# Commando Front Office at Talan
+# Junior Model Developer at ING
 
 | Field | Details |
 |-------|---------|
-| Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | Milan, Lombardy, Italy |
 | Category | Quant Developer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000121693817-commando-front-office) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/MILAN/Junior-Model-Developer_REQ-10114891) |
 
 ## About This Role
 
-This quant developer position at Talan was posted on 2026-04-20.
+This quant developer position at ING was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

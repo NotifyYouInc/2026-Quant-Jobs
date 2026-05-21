@@ -1,16 +1,16 @@
-# Commando Front Office at Talan
+# Algorithmic Trader at DRW
 
 | Field | Details |
 |-------|---------|
-| Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [DRW](https://scoutify.ai/companies/drweng?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | Chicago, Illinois, United States |
 | Category | Quant Developer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000121693817-commando-front-office) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/drweng/jobs/7921564) |
 
 ## About This Role
 
-This quant developer position at Talan was posted on 2026-04-20.
+This quant developer position at DRW was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 
