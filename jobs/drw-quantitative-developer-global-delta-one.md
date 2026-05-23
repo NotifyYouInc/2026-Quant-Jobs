@@ -1,16 +1,16 @@
-# Quantitative Analyst  at Legal & General
+# Quantitative Developer, Global Delta One  at DRW
 
 | Field | Details |
 |-------|---------|
-| Company | [Legal & General](https://scoutify.ai/companies/legalgeneral?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Company | [DRW](https://scoutify.ai/companies/drweng?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Quant Developer |
 | Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000126741909-quantitative-analyst) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/drweng/jobs/7930236) |
 
 ## About This Role
 
-This quant developer position at Legal & General was posted on 2026-05-15.
+This quant developer position at DRW was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 
