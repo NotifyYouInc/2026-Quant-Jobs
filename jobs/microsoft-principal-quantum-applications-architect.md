@@ -5,12 +5,12 @@
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Redmond, Washington, United States |
 | Category | Quant Developer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556858568) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556863040) |
 
 ## About This Role
 
-This quant developer position at Microsoft was posted on 2026-04-16.
+This quant developer position at Microsoft was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 
