@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Quant Developer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Quantitative-Analytics-Specialist_R-537213) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Quantitative-Analytics-Specialist_R-524972-1) |
 
 ## About This Role
 
-This quant developer position at Wells Fargo was posted on 2026-04-17.
+This quant developer position at Wells Fargo was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 
