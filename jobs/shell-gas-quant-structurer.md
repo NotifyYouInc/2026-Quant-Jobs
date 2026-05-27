@@ -1,16 +1,16 @@
-# Quantitative Strategist at Deutsche Bank
+# Gas Quant Structurer at Shell
 
 | Field | Details |
 |-------|---------|
-| Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Company | [Shell](https://scoutify.ai/companies/shell?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Quant Developer |
 | Posted | 2026-05-19 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/London-21-Moorfields/Quantitative-Strategist_R0415575) |
+| Apply | [View on company site](https://shell.wd3.myworkdayjobs.com/shellcareers/job/London-York-Road/Gas-Quant-Structurer_R164759) |
 
 ## About This Role
 
-This quant developer position at Deutsche Bank was posted on 2026-05-19.
+This quant developer position at Shell was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

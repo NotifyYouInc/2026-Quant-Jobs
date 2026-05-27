@@ -1,16 +1,16 @@
-# Quantitative Strategist at Deutsche Bank
+# VP, Quantitative Developer - Risk Engineering at Galaxy
 
 | Field | Details |
 |-------|---------|
-| Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Galaxy](https://scoutify.ai/companies/galaxydigitalservices?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | New York City, New York, United States |
 | Category | Quant Developer |
 | Posted | 2026-05-19 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/London-21-Moorfields/Quantitative-Strategist_R0415575) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6000287004) |
 
 ## About This Role
 
-This quant developer position at Deutsche Bank was posted on 2026-05-19.
+This quant developer position at Galaxy was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 
