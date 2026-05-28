@@ -1,4 +1,4 @@
-# Lead Engineer, Trading Product Engineering at Bullish Global
+# Senior Engineer, Trading Product Engineering at Bullish Global
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | London, England, United Kingdom |
 | Category | Software Engineer |
 | Posted | 2026-05-20 |
-| Apply | [View on company site](https://bullish.wd3.myworkdayjobs.com/bullish/job/London/Lead-Engineer--Trading-Product-Engineering_JR2001235-1) |
+| Apply | [View on company site](https://bullish.wd3.myworkdayjobs.com/bullish/job/London/Senior-Engineer--Trading-Product-Engineering_JR2001236-1) |
 
 ## About This Role
 

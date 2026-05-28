@@ -1,16 +1,16 @@
-# Commando Front Office at Talan
+# IED - Derivatives Strat - Associate / VP at Morgan Stanley
 
 | Field | Details |
 |-------|---------|
-| Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Quant Developer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000126357031-commando-front-office) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Paris-France/IED---Derivatives-Strat---Associate---VP_JR037505) |
 
 ## About This Role
 
-This quant developer position at Talan was posted on 2026-05-13.
+This quant developer position at Morgan Stanley was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

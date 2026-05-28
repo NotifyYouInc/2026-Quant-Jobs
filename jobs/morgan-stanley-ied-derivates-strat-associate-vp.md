@@ -1,16 +1,16 @@
-# Lead Engineer, Trading Product Engineering at Bullish Global
+# IED - Derivates Strat - Associate / VP at Morgan Stanley
 
 | Field | Details |
 |-------|---------|
-| Company | [Bullish Global](https://scoutify.ai/companies/bullish-global?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Software Engineer |
+| Category | Data Scientist |
 | Posted | 2026-05-20 |
-| Apply | [View on company site](https://bullish.wd3.myworkdayjobs.com/bullish/job/London/Lead-Engineer--Trading-Product-Engineering_JR2001235-1) |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/London-United-Kingdom/IED---Derivates-Strat---Associate---VP_JR037504) |
 
 ## About This Role
 
-This software engineer position at Bullish Global was posted on 2026-05-20.
+This data scientist position at Morgan Stanley was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

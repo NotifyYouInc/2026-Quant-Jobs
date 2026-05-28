@@ -1,16 +1,16 @@
-# Lead Engineer, Trading Product Engineering at Bullish Global
+# Commodities Quantitative Strategist at Deutsche Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [Bullish Global](https://scoutify.ai/companies/bullish-global?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Software Engineer |
+| Category | Quant Developer |
 | Posted | 2026-05-20 |
-| Apply | [View on company site](https://bullish.wd3.myworkdayjobs.com/bullish/job/London/Lead-Engineer--Trading-Product-Engineering_JR2001235-1) |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/London-21-Moorfields/Commodities-Quantitative-Strategist_R0435714) |
 
 ## About This Role
 
-This software engineer position at Bullish Global was posted on 2026-05-20.
+This quant developer position at Deutsche Bank was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

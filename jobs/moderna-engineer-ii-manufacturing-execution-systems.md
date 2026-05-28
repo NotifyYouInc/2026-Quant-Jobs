@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Moderna](https://scoutify.ai/companies/modernatx?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Norwood, Massachusetts, United States |
-| Category | Customer Success |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Engineer-II--Manufacturing-Execution-Systems_R18794-1) |
+| Category | Engineering Manager |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Engineer-II--Manufacturing-Execution-Systems_R18802) |
 
 ## About This Role
 
-This customer success position at Moderna was posted on 2026-02-26.
+This engineering manager position at Moderna was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

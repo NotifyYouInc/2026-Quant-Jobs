@@ -1,16 +1,16 @@
-# Lead Engineer, Trading Product Engineering at Bullish Global
+# Quant - Marco Rates Flow at Barclays
 
 | Field | Details |
 |-------|---------|
-| Company | [Bullish Global](https://scoutify.ai/companies/bullish-global?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Software Engineer |
+| Category | Corporate Finance |
 | Posted | 2026-05-20 |
-| Apply | [View on company site](https://bullish.wd3.myworkdayjobs.com/bullish/job/London/Lead-Engineer--Trading-Product-Engineering_JR2001235-1) |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Quant---Marco-Rates-Flow_JR-0000101212) |
 
 ## About This Role
 
-This software engineer position at Bullish Global was posted on 2026-05-20.
+This corporate finance position at Barclays was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 
