@@ -1,16 +1,16 @@
-# Quantitative Model Analyst 2 at U.S. Bank
+# Quantitative Financial Specialist at Bespokelabs
 
 | Field | Details |
 |-------|---------|
-| Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | 3 locations |
+| Company | [Bespokelabs](https://scoutify.ai/companies/bespokelabs?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | Not specified |
 | Category | Quant Developer |
 | Posted | 2026-05-21 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Quantitative-Model-Analyst-2_2026-0013756-1) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bespokelabs/b8c3ed22-14f1-4653-814d-b0a756476575) |
 
 ## About This Role
 
-This quant developer position at U.S. Bank was posted on 2026-05-21.
+This quant developer position at Bespokelabs was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

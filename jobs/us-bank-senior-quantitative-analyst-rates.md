@@ -1,12 +1,12 @@
-# Quantitative Model Analyst 2 at U.S. Bank
+# Senior Quantitative Analyst - Rates at U.S. Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | 3 locations |
+| Location | London, England, United Kingdom |
 | Category | Quant Developer |
 | Posted | 2026-05-21 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Quantitative-Model-Analyst-2_2026-0013756-1) |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/London-United-Kingdom/Senior-Quantitative-Analyst---Rates_2026-0013478) |
 
 ## About This Role
 

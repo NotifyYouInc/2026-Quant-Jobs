@@ -1,16 +1,16 @@
-# Senior Quantitative Analyst  at Legal & General
+# Manager, Business Analytics at LSEG
 
 | Field | Details |
 |-------|---------|
-| Company | [Legal & General](https://scoutify.ai/companies/legalgeneral?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Quant Developer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000126663110-senior-quantitative-analyst) |
+| Category | Business Analyst |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Manager--Business-Analytics_R0119770-1) |
 
 ## About This Role
 
-This quant developer position at Legal & General was posted on 2026-05-15.
+This business analyst position at LSEG was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

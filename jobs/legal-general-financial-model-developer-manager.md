@@ -1,16 +1,16 @@
-# Quantitative Model Analyst 2 at U.S. Bank
+# Financial Model Developer Manager at Legal & General
 
 | Field | Details |
 |-------|---------|
-| Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | 3 locations |
+| Company | [Legal & General](https://scoutify.ai/companies/legalgeneral?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Quant Developer |
 | Posted | 2026-05-21 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Quantitative-Model-Analyst-2_2026-0013756-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000127627562-financial-model-developer-manager) |
 
 ## About This Role
 
-This quant developer position at U.S. Bank was posted on 2026-05-21.
+This quant developer position at Legal & General was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 
