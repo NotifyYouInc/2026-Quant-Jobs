@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alfa Laval](https://scoutify.ai/companies/alfa-laval?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Monza, Lombardy, Italy |
 | Category | Project Manager |
-| Posted | 2026-01-19 |
-| Apply | [View on company site](https://alfalaval.wd3.myworkdayjobs.com/alfa_laval_jobs/job/Madrid/Project-Execution-Engineer_JR0042527) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://alfalaval.wd3.myworkdayjobs.com/alfa_laval_jobs/job/Monza/Project-Execution-Engineer_JR0045723) |
 
 ## About This Role
 
-This project manager position at Alfa Laval was posted on 2026-01-19.
+This project manager position at Alfa Laval was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

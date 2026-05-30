@@ -1,16 +1,16 @@
-# eFX Quant Trader at U.S. Bank
+# Rates XVA Quant, AVP at Citigroup
 
 | Field | Details |
 |-------|---------|
-| Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | New York City, New York, United States |
-| Category | Corporate Finance |
+| Category | Quant Developer |
 | Posted | 2026-05-22 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/New-York-NY/eFX-Quant-Trader_2026-0013439) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Rates-XVA-Quant--AVP_26960710) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-05-22.
+This quant developer position at Citigroup was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

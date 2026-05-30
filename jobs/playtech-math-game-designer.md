@@ -5,12 +5,12 @@
 | Company | [Playtech](https://scoutify.ai/companies/playtech?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Quant Developer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000122265197-math-game-designer) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000122404687-math-game-designer) |
 
 ## About This Role
 
-This quant developer position at Playtech was posted on 2026-04-22.
+This quant developer position at Playtech was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

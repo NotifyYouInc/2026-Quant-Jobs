@@ -1,16 +1,16 @@
-# eFX Quant Trader at U.S. Bank
+# Quantitative Model Validation Analyst at U.S. Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | New York City, New York, United States |
-| Category | Corporate Finance |
+| Location | 4 locations |
+| Category | Quant Developer |
 | Posted | 2026-05-22 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/New-York-NY/eFX-Quant-Trader_2026-0013439) |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/San-Francisco-CA/Quantitative-Model-Validation-Analyst_2026-0013762) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-05-22.
+This quant developer position at U.S. Bank was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

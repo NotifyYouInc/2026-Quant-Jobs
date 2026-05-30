@@ -1,16 +1,16 @@
-# Quantum Engineer at Atomcomputing
+# Algorithmic Execution Quant (Equities), Director at Citigroup
 
 | Field | Details |
 |-------|---------|
-| Company | [Atomcomputing](https://scoutify.ai/companies/atomcomputing?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Boulder, Colorado, United States |
+| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | Hong Kong, Hong Kong |
 | Category | Quant Developer |
 | Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.lever.co/atomcomputing/6d58cd9f-c90b-4262-a48a-8112333071af) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Hong-Kong--Hong-Kong/Algorithmic-Execution-Quant--Equities---Director_26964701) |
 
 ## About This Role
 
-This quant developer position at Atomcomputing was posted on 2026-05-22.
+This quant developer position at Citigroup was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 
