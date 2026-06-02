@@ -1,12 +1,12 @@
-# eFX Quant Trader at U.S. Bancorp
+# Senior Quantitative Analyst - Rates at U.S. Bancorp
 
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bancorp](https://scoutify.ai/companies/usbank?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | New York City, New York, United States |
+| Location | Charlotte, North Carolina, United States |
 | Category | Quant Developer |
 | Posted | 2026-05-23 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/New-York-NY/eFX-Quant-Trader_2026-0013439) |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Charlotte-NC/Senior-Quantitative-Analyst---Rates_2026-0013617) |
 
 ## About This Role
 

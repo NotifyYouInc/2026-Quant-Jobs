@@ -1,16 +1,16 @@
-# eFX Quant Trader at U.S. Bancorp
+# Quantitative Model Analyst - Treasury at U.S. Bancorp
 
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bancorp](https://scoutify.ai/companies/usbank?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | New York City, New York, United States |
+| Location | 3 locations |
 | Category | Quant Developer |
-| Posted | 2026-05-23 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/New-York-NY/eFX-Quant-Trader_2026-0013439) |
+| Posted | 2026-05-16 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Quantitative-Model-Analyst---Treasury_2026-0006177) |
 
 ## About This Role
 
-This quant developer position at U.S. Bancorp was posted on 2026-05-23.
+This quant developer position at U.S. Bancorp was posted on 2026-05-16.
 
 ## Get Real-Time Alerts
 
