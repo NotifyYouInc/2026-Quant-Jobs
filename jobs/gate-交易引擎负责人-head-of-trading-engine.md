@@ -1,16 +1,16 @@
-# Algorithmic Trader at Simplex Trading
+# 交易引擎负责人 (Head of Trading Engine) at Gate
 
 | Field | Details |
 |-------|---------|
-| Company | [Simplex Trading](https://scoutify.ai/companies/simplex-trading?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Chicago, Illinois, United States |
+| Company | [Gate](https://scoutify.ai/companies/gate?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | Not specified |
 | Category | Quant Developer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/simplextrading/jobs/4181846008) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://jobs.lever.co/gate/f65d185c-6274-4b31-ad7a-9479392ed84c) |
 
 ## About This Role
 
-This quant developer position at Simplex Trading was posted on 2026-05-21.
+This quant developer position at Gate was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

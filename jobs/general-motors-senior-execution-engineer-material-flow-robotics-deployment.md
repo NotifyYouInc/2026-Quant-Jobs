@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Oshawa, Ontario, Canada |
+| Location | Lansing, Michigan, United States |
 | Category | Robotics Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Oshawa-Ontario-Canada/Senior-Execution-Engineer---Material-Flow---Robotics-Deployment_JR-202605616-1) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Lansing-Michigan-United-States-of-America/Senior-Execution-Engineer---Material-Flow---Robotics-Deployment_JR-202606071) |
 
 ## About This Role
 
-This robotics engineer position at General Motors was posted on 2026-03-23.
+This robotics engineer position at General Motors was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

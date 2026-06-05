@@ -5,12 +5,12 @@
 | Company | [Legal & General](https://scoutify.ai/companies/legalgeneral?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Asset Management / Portfolio Management |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000123147558-quantitative-developer-asset-management) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000128881979-quantitative-developer-asset-management) |
 
 ## About This Role
 
-This asset management / portfolio management position at Legal & General was posted on 2026-04-27.
+This asset management / portfolio management position at Legal & General was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 
