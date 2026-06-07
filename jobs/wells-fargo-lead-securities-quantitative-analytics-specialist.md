@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Quant Developer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Lead-Securities-Quantitative-Analytics-Specialist_R-543587) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Lead-Securities-Quantitative-Analytics-Specialist_R-522651) |
 
 ## About This Role
 
-This quant developer position at Wells Fargo was posted on 2026-05-06.
+This quant developer position at Wells Fargo was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 
