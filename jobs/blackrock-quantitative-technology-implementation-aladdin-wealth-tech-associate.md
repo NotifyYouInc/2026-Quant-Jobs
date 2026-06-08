@@ -5,12 +5,12 @@
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Customer Success |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Mumbai-India/Quantitative-Technology---Implementation--Aladdin-Wealth-Tech--Associate_R260939) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Mumbai-India/Quantitative-Technology---Implementation--Aladdin-Wealth-Tech--Associate_R261519) |
 
 ## About This Role
 
-This customer success position at Blackrock was posted on 2026-04-14.
+This customer success position at Blackrock was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 
