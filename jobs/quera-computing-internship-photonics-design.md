@@ -5,12 +5,12 @@
 | Company | [QuEra Computing](https://scoutify.ai/companies/queracomputinginc?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Quant Developer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/queracomputinginc/jobs/5191381008) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/queracomputinginc/jobs/5239467008) |
 
 ## About This Role
 
-This quant developer position at QuEra Computing was posted on 2026-04-16.
+This quant developer position at QuEra Computing was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

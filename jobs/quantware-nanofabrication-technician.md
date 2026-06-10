@@ -1,16 +1,16 @@
-# Junior Quantitative Trader at TransMarket Group
+# Nanofabrication Technician  at QuantWare
 
 | Field | Details |
 |-------|---------|
-| Company | [TransMarket Group](https://scoutify.ai/companies/transmarketgroup?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Chicago, Illinois, United States |
+| Company | [QuantWare](https://scoutify.ai/companies/quantware?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | Delft, South Holland, The Netherlands |
 | Category | Quant Developer |
 | Posted | 2026-06-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151574007?gh_jid=5151574007) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/quantware/74a5a01b-3c57-4066-b889-7f0ab5f024c1) |
 
 ## About This Role
 
-This quant developer position at TransMarket Group was posted on 2026-06-02.
+This quant developer position at QuantWare was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

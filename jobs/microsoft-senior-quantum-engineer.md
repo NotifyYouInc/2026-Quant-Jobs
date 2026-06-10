@@ -1,16 +1,16 @@
-# Junior Quantitative Trader at TransMarket Group
+# Senior Quantum Engineer at Microsoft
 
 | Field | Details |
 |-------|---------|
-| Company | [TransMarket Group](https://scoutify.ai/companies/transmarketgroup?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Chicago, Illinois, United States |
+| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | Redmond, Washington, United States |
 | Category | Quant Developer |
 | Posted | 2026-06-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151574007?gh_jid=5151574007) |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556866199) |
 
 ## About This Role
 
-This quant developer position at TransMarket Group was posted on 2026-06-02.
+This quant developer position at Microsoft was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

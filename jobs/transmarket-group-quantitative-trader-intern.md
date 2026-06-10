@@ -1,4 +1,4 @@
-# Junior Quantitative Trader at TransMarket Group
+# Quantitative Trader Intern at TransMarket Group
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Chicago, Illinois, United States |
 | Category | Quant Developer |
 | Posted | 2026-06-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151574007?gh_jid=5151574007) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151569007?gh_jid=5151569007) |
 
 ## About This Role
 

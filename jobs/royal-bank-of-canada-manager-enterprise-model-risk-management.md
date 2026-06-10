@@ -1,16 +1,16 @@
-# Manager Enterprise Model Risk Management at Royal Bank of Canada
+# Manager, Enterprise Model Risk Management at Royal Bank of Canada
 
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Compliance & Risk Management |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Manager-Enterprise-Model-Risk-Management_R-0000166761) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Manager--Enterprise-Model-Risk-Management_R-0000174546-2) |
 
 ## About This Role
 
-This compliance & risk management position at Royal Bank of Canada was posted on 2026-04-22.
+This compliance & risk management position at Royal Bank of Canada was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

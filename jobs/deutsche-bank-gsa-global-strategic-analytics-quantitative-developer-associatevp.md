@@ -1,16 +1,16 @@
-# Quantitative Strategist at Deutsche Bank
+# GSA (Global Strategic Analytics)-Quantitative Developer- Associate/VP at Deutsche Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Quant Developer |
+| Location | Singapore, Singapore |
+| Category | Strategy & Operations |
 | Posted | 2026-06-02 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/London-21-Moorfields/Quantitative-Strategist_R0433362) |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Singapore-One-Raffles-Quay/GSA--Global-Strategic-Analytics----Quantitative-Developer---VP_R0392842) |
 
 ## About This Role
 
-This quant developer position at Deutsche Bank was posted on 2026-06-02.
+This strategy & operations position at Deutsche Bank was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

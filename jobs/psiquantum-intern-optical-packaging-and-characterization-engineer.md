@@ -1,16 +1,16 @@
-# Junior Quantitative Trader at TransMarket Group
+# Intern, Optical Packaging and Characterization Engineer at PsiQuantum
 
 | Field | Details |
 |-------|---------|
-| Company | [TransMarket Group](https://scoutify.ai/companies/transmarketgroup?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Chicago, Illinois, United States |
+| Company | [PsiQuantum](https://scoutify.ai/companies/psiquantum?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | Milpitas, California, United States |
 | Category | Quant Developer |
 | Posted | 2026-06-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151574007?gh_jid=5151574007) |
+| Apply | [View on company site](https://www.psiquantum.com/apply?gh_jid=7761881003) |
 
 ## About This Role
 
-This quant developer position at TransMarket Group was posted on 2026-06-02.
+This quant developer position at PsiQuantum was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

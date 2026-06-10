@@ -1,16 +1,16 @@
-# Junior Quantitative Trader at TransMarket Group
+# Senior kdb+ Engineer at Data Intellect
 
 | Field | Details |
 |-------|---------|
-| Company | [TransMarket Group](https://scoutify.ai/companies/transmarketgroup?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Chicago, Illinois, United States |
+| Company | [Data Intellect](https://scoutify.ai/companies/data-intellect?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | Dublin, Leinster, Ireland |
 | Category | Quant Developer |
 | Posted | 2026-06-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151574007?gh_jid=5151574007) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/dataintellect/744000129794336-senior-kdb-engineer) |
 
 ## About This Role
 
-This quant developer position at TransMarket Group was posted on 2026-06-02.
+This quant developer position at Data Intellect was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 
