@@ -1,12 +1,12 @@
-# Securities Quantitative Analytics Associate at Wells Fargo
+# Quantitative Analytics Specialist (#001931 Multiple Positions Available) at Wells Fargo
 
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | City of London, England, United Kingdom |
+| Location | Charlotte, North Carolina, United States |
 | Category | Quant Developer |
 | Posted | 2026-06-03 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CITY-OF-LONDON/Securities-Quantitative-Analytics-Associate_R-523633) |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Quantitative-Analytics-Specialist---001931-Multiple-Positions-Available-_R-550904-1) |
 
 ## About This Role
 

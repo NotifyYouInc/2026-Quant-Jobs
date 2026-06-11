@@ -1,16 +1,16 @@
-# Securities Quantitative Analytics Associate at Wells Fargo
+# Quantitative Model Solutions Specialist at Wells Fargo
 
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | City of London, England, United Kingdom |
-| Category | Quant Developer |
+| Location | Hyderabad, Telangana, India |
+| Category | Sales Engineer |
 | Posted | 2026-06-03 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CITY-OF-LONDON/Securities-Quantitative-Analytics-Associate_R-523633) |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Quantitative-Model-Solutions-Specialist_R-548445-1) |
 
 ## About This Role
 
-This quant developer position at Wells Fargo was posted on 2026-06-03.
+This sales engineer position at Wells Fargo was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 
