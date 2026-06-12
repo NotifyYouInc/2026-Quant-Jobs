@@ -1,16 +1,16 @@
-# Quantitative Developer  at WorldQuant
+# Enterprise Sales - Junior Client Developer (BQuant) at Bloomberg
 
 | Field | Details |
 |-------|---------|
-| Company | [WorldQuant](https://scoutify.ai/companies/worldquant?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Company | [Bloomberg](https://scoutify.ai/companies/bloomberg?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Singapore, Singapore |
-| Category | Quant Developer |
+| Category | Sales Engineer |
 | Posted | 2026-06-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/worldquant/jobs/4686743006) |
+| Apply | [View on company site](https://bloomberg.avature.net/careers/JobDetail/Enterprise-Sales-Junior-Client-Developer-BQuant/20060) |
 
 ## About This Role
 
-This quant developer position at WorldQuant was posted on 2026-06-05.
+This sales engineer position at Bloomberg was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

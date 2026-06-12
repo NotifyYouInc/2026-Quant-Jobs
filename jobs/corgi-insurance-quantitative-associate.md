@@ -1,16 +1,16 @@
-# Quantitative Developer  at WorldQuant
+# Quantitative Associate at Corgi Insurance
 
 | Field | Details |
 |-------|---------|
-| Company | [WorldQuant](https://scoutify.ai/companies/worldquant?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Corgi Insurance](https://scoutify.ai/companies/corgi-insurance?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | 2 locations |
 | Category | Quant Developer |
 | Posted | 2026-06-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/worldquant/jobs/4686743006) |
+| Apply | [View on company site](https://www.ycombinator.com/companies/corgi-insurance/jobs/M8VwwFB-quantitative-associate) |
 
 ## About This Role
 
-This quant developer position at WorldQuant was posted on 2026-06-05.
+This quant developer position at Corgi Insurance was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

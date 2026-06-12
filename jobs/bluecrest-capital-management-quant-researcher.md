@@ -1,16 +1,16 @@
-# Quantitative Developer  at WorldQuant
+# Quant Researcher at BlueCrest Capital Management
 
 | Field | Details |
 |-------|---------|
-| Company | [WorldQuant](https://scoutify.ai/companies/worldquant?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Company | [BlueCrest Capital Management](https://scoutify.ai/companies/bluecrest-capital-management?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Singapore, Singapore |
 | Category | Quant Developer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/worldquant/jobs/4686743006) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/bluecrestcapitalmanagement/jobs/7763385003) |
 
 ## About This Role
 
-This quant developer position at WorldQuant was posted on 2026-06-05.
+This quant developer position at BlueCrest Capital Management was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 
