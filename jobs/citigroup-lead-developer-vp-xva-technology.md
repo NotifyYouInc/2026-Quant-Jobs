@@ -1,16 +1,16 @@
-# Principal Quantum Measurement Engineer at Microsoft
+# Lead Developer – VP – XVA Technology at Citigroup
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | West Lafayette, Indiana, United States |
+| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Quant Developer |
 | Posted | 2026-06-05 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556873226) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Lead-Developer---VP---XVA-Technology_26956276) |
 
 ## About This Role
 
-This quant developer position at Microsoft was posted on 2026-06-05.
+This quant developer position at Citigroup was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

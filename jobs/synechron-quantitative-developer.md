@@ -5,12 +5,12 @@
 | Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Quant Developer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Toronto-ON/Quantitative-Developer_JR1038529) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Toronto-ON/Quantitative-Developer_JR1040416) |
 
 ## About This Role
 
-This quant developer position at Synechron was posted on 2026-04-09.
+This quant developer position at Synechron was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Principal Quantum Measurement Engineer at Microsoft
+# Specialist: Quantitative Analyst at Absa
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | West Lafayette, Indiana, United States |
+| Company | [Absa](https://scoutify.ai/companies/absa?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | Johannesburg, Gauteng, South Africa |
 | Category | Quant Developer |
 | Posted | 2026-06-05 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556873226) |
+| Apply | [View on company site](https://absa.wd3.myworkdayjobs.com/absacareersite/job/Johannesburg/Specialist--Quantitative-Analyst_R-15987869-1) |
 
 ## About This Role
 
-This quant developer position at Microsoft was posted on 2026-06-05.
+This quant developer position at Absa was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

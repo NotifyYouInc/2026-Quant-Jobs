@@ -1,4 +1,4 @@
-# Principal Quantum Measurement Engineer at Microsoft
+# Principal Quantum Integration Manager at Microsoft
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | West Lafayette, Indiana, United States |
 | Category | Quant Developer |
 | Posted | 2026-06-05 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556873226) |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556873227) |
 
 ## About This Role
 

@@ -1,16 +1,16 @@
-# Principal Quantum Measurement Engineer at Microsoft
+# Quantitative Developer  at Engelhart
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | West Lafayette, Indiana, United States |
+| Company | [Engelhart](https://scoutify.ai/companies/engelhart?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Quant Developer |
 | Posted | 2026-06-05 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556873226) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/engelhart/jobs/7920878) |
 
 ## About This Role
 
-This quant developer position at Microsoft was posted on 2026-06-05.
+This quant developer position at Engelhart was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

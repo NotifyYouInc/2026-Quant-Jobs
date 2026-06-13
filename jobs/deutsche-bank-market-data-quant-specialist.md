@@ -1,16 +1,16 @@
-# Principal Quantum Measurement Engineer at Microsoft
+# Market Data Quant Specialist at Deutsche Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | West Lafayette, Indiana, United States |
+| Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Quant Developer |
 | Posted | 2026-06-05 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556873226) |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/London-21-Moorfields/Market-Data-Quant-Specialist_R0429387-1) |
 
 ## About This Role
 
-This quant developer position at Microsoft was posted on 2026-06-05.
+This quant developer position at Deutsche Bank was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 
