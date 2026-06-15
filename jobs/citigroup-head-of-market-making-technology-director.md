@@ -1,16 +1,16 @@
-# Natural Gas Quantitative Developer at Citigroup
+# Head of Market Making Technology (Director) at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Houston, Texas, United States |
-| Category | Quant Developer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Houston-Texas-United-States/Natural-Gas-Quantitative-Developer_26964999) |
+| Location | Kowloon, Hong Kong |
+| Category | Sales & Trading |
+| Posted | 2026-06-07 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Kowloon--Hong-Kong/Head-of-Market-Making-Technology--Director-_26968780-1) |
 
 ## About This Role
 
-This quant developer position at Citigroup was posted on 2026-05-19.
+This sales & trading position at Citigroup was posted on 2026-06-07.
 
 ## Get Real-Time Alerts
 
