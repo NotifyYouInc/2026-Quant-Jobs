@@ -5,12 +5,12 @@
 | Company | [Bloomberg](https://scoutify.ai/companies/bloomberg?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | New York City, New York, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-24 |
-| Apply | [View on company site](https://bloomberg.avature.net/careers/JobDetail/Senior-Quant-ML-Engineer-Fixed-Income-Artificial-Intelligence/19604) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://bloomberg.avature.net/careers/JobDetail/Senior-Quant-ML-Engineer-Fixed-Income-Artificial-Intelligence/13910) |
 
 ## About This Role
 
-This machine learning engineer position at Bloomberg was posted on 2026-05-24.
+This machine learning engineer position at Bloomberg was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

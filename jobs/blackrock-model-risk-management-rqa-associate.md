@@ -5,12 +5,12 @@
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Compliance & Risk Management |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Mumbai-India/Model-Risk-Management--RQA--Associate_R264512) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Mumbai-India/Model-Risk-Management--RQA--Associate_R264511) |
 
 ## About This Role
 
-This compliance & risk management position at Blackrock was posted on 2026-05-25.
+This compliance & risk management position at Blackrock was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 
