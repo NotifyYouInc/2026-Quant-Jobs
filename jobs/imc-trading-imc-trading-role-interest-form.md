@@ -1,16 +1,16 @@
-# Senior Quantitative Treasury & ALM Risk Analyst at Ebury
+# IMC Trading - Role Interest Form at IMC Trading
 
 | Field | Details |
 |-------|---------|
-| Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Madrid, Madrid, Spain |
-| Category | Corporate Finance |
+| Company | [IMC Trading](https://scoutify.ai/companies/imc?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | Chicago, Illinois, United States |
+| Category | Brand Marketing |
 | Posted | 2026-06-09 |
-| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4890238101) |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/imc/jobs/4891391101) |
 
 ## About This Role
 
-This corporate finance position at Ebury was posted on 2026-06-09.
+This brand marketing position at IMC Trading was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

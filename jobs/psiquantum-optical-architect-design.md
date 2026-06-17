@@ -1,16 +1,16 @@
-# Senior Quantitative Treasury & ALM Risk Analyst at Ebury
+# Optical Architect (Design) at PsiQuantum
 
 | Field | Details |
 |-------|---------|
-| Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Madrid, Madrid, Spain |
-| Category | Corporate Finance |
+| Company | [PsiQuantum](https://scoutify.ai/companies/psiquantum?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | Daresbury, England, United Kingdom |
+| Category | Quant Developer |
 | Posted | 2026-06-09 |
-| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4890238101) |
+| Apply | [View on company site](https://www.psiquantum.com/apply?gh_jid=7767646003) |
 
 ## About This Role
 
-This corporate finance position at Ebury was posted on 2026-06-09.
+This quant developer position at PsiQuantum was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

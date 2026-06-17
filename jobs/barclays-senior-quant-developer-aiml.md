@@ -1,16 +1,16 @@
-# Senior / Principal Quantum Error Correction Engineer at Microsoft
+# Senior Quant Developer AI/ML at Barclays
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Denmark |
+| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | Prague, Prague, Czechia |
 | Category | Quant Developer |
 | Posted | 2026-06-09 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556873897) |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gemini-Building-A-Prague/Senior-Quant-Developer-AI-ML_JR-0000114101) |
 
 ## About This Role
 
-This quant developer position at Microsoft was posted on 2026-06-09.
+This quant developer position at Barclays was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 
