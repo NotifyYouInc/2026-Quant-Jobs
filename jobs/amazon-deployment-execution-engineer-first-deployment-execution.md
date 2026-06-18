@@ -1,16 +1,16 @@
-# Deployment Execution Engineer , Robotics Delivery & Packaging Innovation at Amazon
+# Deployment Execution Engineer , First Deployment Execution at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | 4 locations |
-| Category | Robotics Engineer |
+| Location | London, England, United Kingdom |
+| Category | Industrial Automation |
 | Posted | 2026-05-12 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10417249/deployment-execution-engineer-robotics-delivery-packaging-innovation) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10417247/deployment-execution-engineer-first-deployment-execution) |
 
 ## About This Role
 
-This robotics engineer position at Amazon was posted on 2026-05-12.
+This industrial automation position at Amazon was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

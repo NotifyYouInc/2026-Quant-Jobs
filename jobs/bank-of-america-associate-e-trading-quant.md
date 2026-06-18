@@ -1,4 +1,4 @@
-# Associate - Quant at Bank of America
+# Associate, E-Trading Quant at Bank of America
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | New York City, New York, United States |
 | Category | Quant Developer |
 | Posted | 2026-06-10 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Associate---Quant_26020172) |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Associate--E-Trading-Quant_26020133-1) |
 
 ## About This Role
 
