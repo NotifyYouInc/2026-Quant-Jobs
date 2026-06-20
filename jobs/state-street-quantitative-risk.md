@@ -1,16 +1,16 @@
-# Quantum Engineer at Atomcomputing
+# Quantitative Risk at State Street
 
 | Field | Details |
 |-------|---------|
-| Company | [Atomcomputing](https://scoutify.ai/companies/atomcomputing?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Boulder, Colorado, United States |
+| Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | Boston, Massachusetts, United States |
 | Category | Quant Developer |
 | Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.lever.co/atomcomputing/4b31b2fc-324e-420d-9a5f-509be2c19393) |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Quantitative-Risk_R-792310) |
 
 ## About This Role
 
-This quant developer position at Atomcomputing was posted on 2026-06-12.
+This quant developer position at State Street was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

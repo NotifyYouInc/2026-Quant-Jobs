@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DRW](https://scoutify.ai/companies/drweng?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Tel Aviv, Tel Aviv, Israel |
+| Location | Chicago, Illinois, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/drweng/jobs/7921963) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/drweng/jobs/7921972) |
 
 ## About This Role
 
-This devops engineer position at DRW was posted on 2026-05-13.
+This devops engineer position at DRW was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 
