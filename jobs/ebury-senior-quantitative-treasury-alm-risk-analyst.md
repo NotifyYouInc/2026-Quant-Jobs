@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | León, Castille and León, Spain |
 | Category | Corporate Finance |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4890238101) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4901696101) |
 
 ## About This Role
 
-This corporate finance position at Ebury was posted on 2026-06-09.
+This corporate finance position at Ebury was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 
