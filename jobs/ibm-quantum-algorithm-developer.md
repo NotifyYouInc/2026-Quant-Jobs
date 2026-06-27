@@ -1,16 +1,16 @@
-# Quantitative Analyst - Sports at bet365
+# Quantum algorithm developer at IBM
 
 | Field | Details |
 |-------|---------|
-| Company | [bet365](https://scoutify.ai/companies/bet365?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Denver, Colorado, United States |
+| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | Cambridge, Massachusetts, United States |
 | Category | Quant Developer |
 | Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000133035538-quantitative-analyst-sports) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=120562) |
 
 ## About This Role
 
-This quant developer position at bet365 was posted on 2026-06-19.
+This quant developer position at IBM was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 
