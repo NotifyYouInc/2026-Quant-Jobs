@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Sales Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Quantitative-Model-Solutions-Specialist_R-546878) |
+| Category | Quant Developer |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Quantitative-Model-Solutions-Specialist_R-509125) |
 
 ## About This Role
 
-This sales engineer position at Wells Fargo was posted on 2026-06-11.
+This quant developer position at Wells Fargo was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 
