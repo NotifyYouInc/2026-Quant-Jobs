@@ -1,16 +1,16 @@
-# Lead eSoftware engineer, Electronic Trading & Liquidity Integration, Equities Technologies Team, DevOps at JPMorgan Chase
+# Quantitative Trading and Research – Prime Financial Services –  Associate at JPMorgan Chase
 
 | Field | Details |
 |-------|---------|
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Singapore, Singapore |
-| Category | Software Engineer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210707572) |
+| Category | Quant Developer |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210761639) |
 
 ## About This Role
 
-This software engineer position at JPMorgan Chase was posted on 2026-02-02.
+This quant developer position at JPMorgan Chase was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 
