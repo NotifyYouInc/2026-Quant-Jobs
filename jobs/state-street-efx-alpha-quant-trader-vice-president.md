@@ -1,16 +1,16 @@
-# Quantitative Developer - Python  at Qube Research & Technologies
+# eFX Alpha Quant Trader, Vice President at State Street
 
 | Field | Details |
 |-------|---------|
-| Company | [Qube Research & Technologies](https://scoutify.ai/companies/qube-research-technologies?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Quant Developer |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8581841002) |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/London-England/eFX-Alpha-Quant-Trader--Vice-President_R-792742-1) |
 
 ## About This Role
 
-This quant developer position at Qube Research & Technologies was posted on 2026-06-22.
+This quant developer position at State Street was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 
