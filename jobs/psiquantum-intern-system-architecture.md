@@ -1,16 +1,16 @@
-# Quantitative Software Developer at Point72
+# Intern, System Architecture at PsiQuantum
 
 | Field | Details |
 |-------|---------|
-| Company | [Point72](https://scoutify.ai/companies/point72?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Taiwan |
+| Company | [PsiQuantum](https://scoutify.ai/companies/psiquantum?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | 2 locations |
 | Category | Quant Developer |
 | Posted | 2026-06-23 |
-| Apply | [View on company site](https://boards.greenhouse.io/point72/jobs/8604288002?gh_jid=8604288002) |
+| Apply | [View on company site](https://www.psiquantum.com/apply?gh_jid=7695577003) |
 
 ## About This Role
 
-This quant developer position at Point72 was posted on 2026-06-23.
+This quant developer position at PsiQuantum was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Quantitative Software Developer at Point72
+# Senior Quantum Engineer - Digital Control Systems at Microsoft
 
 | Field | Details |
 |-------|---------|
-| Company | [Point72](https://scoutify.ai/companies/point72?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Taiwan |
+| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | Redmond, Washington, United States |
 | Category | Quant Developer |
 | Posted | 2026-06-23 |
-| Apply | [View on company site](https://boards.greenhouse.io/point72/jobs/8604288002?gh_jid=8604288002) |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556875998) |
 
 ## About This Role
 
-This quant developer position at Point72 was posted on 2026-06-23.
+This quant developer position at Microsoft was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 
