@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Crypto](https://scoutify.ai/companies/crypto?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Shenzhen, Guangdong, China |
 | Category | DevOps Engineer |
 | Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.lever.co/crypto/90ed0716-b864-4854-a7cd-2f87ca4ff74b) |
+| Apply | [View on company site](https://jobs.lever.co/crypto/df76af07-e011-417c-af4d-4e240fc127e2) |
 
 ## About This Role
 
