@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bloomberg](https://scoutify.ai/companies/bloomberg?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Singapore, Singapore |
-| Category | Sales Engineer |
+| Category | Quant Developer |
 | Posted | 2026-06-05 |
 | Apply | [View on company site](https://bloomberg.avature.net/careers/JobDetail/Enterprise-Sales-Junior-Client-Developer-BQuant/20060) |
 
 ## About This Role
 
-This sales engineer position at Bloomberg was posted on 2026-06-05.
+This quant developer position at Bloomberg was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

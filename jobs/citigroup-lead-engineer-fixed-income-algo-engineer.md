@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Software Engineer |
+| Category | Quant Developer |
 | Posted | 2026-06-15 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Paris--France/Lead-Engineer---Fixed-Income--Algo-Engineer_26970063) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-06-15.
+This quant developer position at Citigroup was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

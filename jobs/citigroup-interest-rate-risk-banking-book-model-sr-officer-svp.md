@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Charlotte, North Carolina, United States |
-| Category | Data Scientist |
+| Category | Quant Developer |
 | Posted | 2026-06-03 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/NC-CHARLOTTE-BALLANTYNE/Interest-Rate-Risk-Banking-Book-Model-Sr-Officer---SVP_26931271) |
 
 ## About This Role
 
-This data scientist position at Citigroup was posted on 2026-06-03.
+This quant developer position at Citigroup was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

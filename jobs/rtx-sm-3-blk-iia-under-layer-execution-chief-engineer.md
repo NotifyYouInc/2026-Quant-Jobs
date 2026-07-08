@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Tucson, Arizona, United States |
-| Category | Engineering Manager |
+| Category | Quant Developer |
 | Posted | 2026-06-16 |
 | Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-807--1151-E-Hermans-Rd--BLDG-807/SM-3-Blk-IIA-Under-Layer-Execution-Chief-Engineer_01852611) |
 
 ## About This Role
 
-This engineering manager position at RTX was posted on 2026-06-16.
+This quant developer position at RTX was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Industrial Automation |
+| Category | Deployment Engineer |
 | Posted | 2026-05-12 |
 | Apply | [View on company site](https://www.amazon.jobs/en/jobs/10417247/deployment-execution-engineer-first-deployment-execution) |
 
 ## About This Role
 
-This industrial automation position at Amazon was posted on 2026-05-12.
+This deployment engineer position at Amazon was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Swissblock](https://scoutify.ai/companies/swissblock?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Italy |
-| Category | Industrial Automation |
+| Category | DevOps Engineer |
 | Posted | 2026-06-10 |
 | Apply | [View on company site](https://jobs.lever.co/swissblock/0d8871eb-5bf5-40dc-a834-c05b6fcaed69) |
 
 ## About This Role
 
-This industrial automation position at Swissblock was posted on 2026-06-10.
+This devops engineer position at Swissblock was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

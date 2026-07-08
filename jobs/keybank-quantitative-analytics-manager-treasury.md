@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [KeyBank](https://scoutify.ai/companies/keybank?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | 6 locations |
-| Category | Data Scientist |
+| Category | Quant Developer |
 | Posted | 2026-06-24 |
 | Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Quantitative-Analytics-Manager---Treasury_R-40484) |
 
 ## About This Role
 
-This data scientist position at KeyBank was posted on 2026-06-24.
+This quant developer position at KeyBank was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

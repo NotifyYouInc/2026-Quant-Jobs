@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deeter Analytics](https://scoutify.ai/companies/deeter-analytics?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | United States |
-| Category | AI / ML Research |
+| Category | Quant Developer |
 | Posted | 2026-06-04 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/deeter-analytics/98f8fb12-0f0d-4c6b-a188-b55ce2f2ffc7) |
 
 ## About This Role
 
-This ai / ml research position at Deeter Analytics was posted on 2026-06-04.
+This quant developer position at Deeter Analytics was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

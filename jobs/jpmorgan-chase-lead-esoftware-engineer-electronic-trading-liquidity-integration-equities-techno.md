@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Singapore, Singapore |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-02 |
 | Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210707572) |
 
 ## About This Role
 
-This software engineer position at JPMorgan Chase was posted on 2026-02-02.
+This devops engineer position at JPMorgan Chase was posted on 2026-02-02.
 
 ## Get Real-Time Alerts
 

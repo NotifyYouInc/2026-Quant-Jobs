@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Huntsville, Alabama, United States |
-| Category | Software Engineer |
+| Category | Quant Developer |
 | Posted | 2026-06-03 |
 | Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Review-Execution-Engineer_R10235095-1) |
 
 ## About This Role
 
-This software engineer position at Northrop Grumman was posted on 2026-06-03.
+This quant developer position at Northrop Grumman was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

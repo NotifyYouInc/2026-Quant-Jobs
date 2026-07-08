@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bullish Global](https://scoutify.ai/companies/bullish-global?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Software Engineer |
+| Category | Quant Developer |
 | Posted | 2026-06-09 |
 | Apply | [View on company site](https://bullish.wd3.myworkdayjobs.com/bullish/job/London/Senior-Engineer--Trading-Product-Engineering_JR2001228) |
 
 ## About This Role
 
-This software engineer position at Bullish Global was posted on 2026-06-09.
+This quant developer position at Bullish Global was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Gate](https://scoutify.ai/companies/gate?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Not specified |
-| Category | Data Scientist |
+| Category | Quant Developer |
 | Posted | 2026-06-09 |
 | Apply | [View on company site](https://jobs.lever.co/gate/be2f5d6a-fd48-48db-89a9-1dd63cdfa3b8) |
 
 ## About This Role
 
-This data scientist position at Gate was posted on 2026-06-09.
+This quant developer position at Gate was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

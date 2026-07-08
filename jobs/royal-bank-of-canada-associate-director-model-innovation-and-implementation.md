@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Data Scientist |
+| Category | Quant Developer |
 | Posted | 2026-06-10 |
 | Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Associate-Director--Model-Innovation-and-Implementation_R-0000175494-1) |
 
 ## About This Role
 
-This data scientist position at Royal Bank of Canada was posted on 2026-06-10.
+This quant developer position at Royal Bank of Canada was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

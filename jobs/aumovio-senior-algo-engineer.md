@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Aumovio](https://scoutify.ai/companies/aumovio?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Not specified |
-| Category | Machine Learning Engineer |
+| Category | Quant Developer |
 | Posted | 2026-06-15 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000132149179-senior-algo-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at Aumovio was posted on 2026-06-15.
+This quant developer position at Aumovio was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

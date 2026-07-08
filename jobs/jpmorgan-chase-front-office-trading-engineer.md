@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Glasgow, Scotland, United Kingdom |
-| Category | Software Engineer |
+| Category | Quant Developer |
 | Posted | 2026-06-02 |
 | Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210754729) |
 
 ## About This Role
 
-This software engineer position at JPMorgan Chase was posted on 2026-06-02.
+This quant developer position at JPMorgan Chase was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

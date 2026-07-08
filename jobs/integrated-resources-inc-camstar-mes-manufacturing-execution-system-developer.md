@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Integrated Resources INC](https://scoutify.ai/companies/integrated-resources-inc?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Concord, California, United States |
-| Category | Software Engineer |
+| Category | Quant Developer |
 | Posted | 2017-07-24 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/integratedresourcesinc/743999656319781-camstar-mes-manufacturing-execution-system-developer) |
 
 ## About This Role
 
-This software engineer position at Integrated Resources INC was posted on 2017-07-24.
+This quant developer position at Integrated Resources INC was posted on 2017-07-24.
 
 ## Get Real-Time Alerts
 

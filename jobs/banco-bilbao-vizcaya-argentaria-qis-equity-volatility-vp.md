@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Product Manager |
+| Category | Quant Developer |
 | Posted | 2026-06-23 |
 | Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/LONDON/QIS-Equity-Volatility-VP_JR00106589) |
 
 ## About This Role
 
-This product manager position at Banco Bilbao Vizcaya Argentaria was posted on 2026-06-23.
+This quant developer position at Banco Bilbao Vizcaya Argentaria was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 
