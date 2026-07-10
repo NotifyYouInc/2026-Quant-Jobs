@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Maven Securities](https://scoutify.ai/companies/mavensecuritiesholdingltd?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Monaco |
 | Category | Quant Developer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7704077) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8043462) |
 
 ## About This Role
 
-This quant developer position at Maven Securities was posted on 2026-03-18.
+This quant developer position at Maven Securities was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

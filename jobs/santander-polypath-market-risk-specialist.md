@@ -1,16 +1,16 @@
-# Vice President; Structurer at Bank of America
+# PolyPath Market Risk Specialist at Santander
 
 | Field | Details |
 |-------|---------|
-| Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | New York City, New York, United States |
 | Category | Quant Developer |
 | Posted | 2026-07-02 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Vice-President--Structurer_26022760) |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/PolyPath-Market-Risk-Specialist_Req1591841) |
 
 ## About This Role
 
-This quant developer position at Bank of America was posted on 2026-07-02.
+This quant developer position at Santander was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

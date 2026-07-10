@@ -1,16 +1,16 @@
-# Vice President; Structurer at Bank of America
+# Trade Engineer, Brooklyn at TIAA
 
 | Field | Details |
 |-------|---------|
-| Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Company | [TIAA](https://scoutify.ai/companies/tiaa?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | New York City, New York, United States |
 | Category | Quant Developer |
 | Posted | 2026-07-02 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Vice-President--Structurer_26022760) |
+| Apply | [View on company site](https://tiaa.wd1.myworkdayjobs.com/Search/job/New-York-NY-USA/Trade-Engineer--Brooklyn_R260600509-2) |
 
 ## About This Role
 
-This quant developer position at Bank of America was posted on 2026-07-02.
+This quant developer position at TIAA was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 
