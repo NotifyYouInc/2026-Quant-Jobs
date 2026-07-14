@@ -1,0 +1,22 @@
+# Quantitative Technologist at Radix Trading
+
+| Field | Details |
+|-------|---------|
+| Company | [Radix Trading](https://scoutify.ai/companies/radixexperienced?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | 3 locations |
+| Category | Quant Developer |
+| Posted | 2025-11-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/radixexperienced/jobs/6629869002) |
+
+## About This Role
+
+This quant developer position at Radix Trading was posted on 2025-11-07.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*
