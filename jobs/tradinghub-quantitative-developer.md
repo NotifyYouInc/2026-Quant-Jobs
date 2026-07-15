@@ -1,16 +1,16 @@
-# Trading Desk Operations Engineer at Jane Street
+# Quantitative Developer at TradingHub
 
 | Field | Details |
 |-------|---------|
-| Company | [Jane Street](https://scoutify.ai/companies/jane-street?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | New York City, New York, United States |
+| Company | [TradingHub](https://scoutify.ai/companies/tradinghub?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Quant Developer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/janestreet/jobs/8621450002) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/tradinghub/10a15c19-9c9e-4dda-b95c-e2936d618dea) |
 
 ## About This Role
 
-This quant developer position at Jane Street was posted on 2026-07-07.
+This quant developer position at TradingHub was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

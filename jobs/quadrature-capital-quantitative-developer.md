@@ -5,12 +5,12 @@
 | Company | [Quadrature Capital](https://scoutify.ai/companies/quadrature-capital?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Quant Developer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/quadraturecapital/jobs/8028012) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/quadraturecapital/jobs/8048585) |
 
 ## About This Role
 
-This quant developer position at Quadrature Capital was posted on 2026-06-25.
+This quant developer position at Quadrature Capital was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

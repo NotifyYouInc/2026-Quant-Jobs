@@ -1,16 +1,16 @@
-# Trading Desk Operations Engineer at Jane Street
+# Monaco Trading - Lead Quantitative Developer at Sei Labs
 
 | Field | Details |
 |-------|---------|
-| Company | [Jane Street](https://scoutify.ai/companies/jane-street?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Company | [Sei Labs](https://scoutify.ai/companies/sei-labs?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | New York City, New York, United States |
 | Category | Quant Developer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/janestreet/jobs/8621450002) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sei-labs/d9cb6348-418b-4dac-91d4-b28288aa1653) |
 
 ## About This Role
 
-This quant developer position at Jane Street was posted on 2026-07-07.
+This quant developer position at Sei Labs was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

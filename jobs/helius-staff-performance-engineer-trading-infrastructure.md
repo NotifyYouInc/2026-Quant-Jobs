@@ -1,16 +1,16 @@
-# Trading Desk Operations Engineer at Jane Street
+# Staff Performance Engineer, Trading Infrastructure at Helius
 
 | Field | Details |
 |-------|---------|
-| Company | [Jane Street](https://scoutify.ai/companies/jane-street?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | New York City, New York, United States |
+| Company | [Helius](https://scoutify.ai/companies/helius?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | United States |
 | Category | Quant Developer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/janestreet/jobs/8621450002) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/helius/0ec462ba-d448-4586-a07c-6c702aa42234) |
 
 ## About This Role
 
-This quant developer position at Jane Street was posted on 2026-07-07.
+This quant developer position at Helius was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 
