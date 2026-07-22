@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Quant Developer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000132128730-commando-front-office) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000133362909-commando-front-office) |
 
 ## About This Role
 
-This quant developer position at Talan was posted on 2026-06-15.
+This quant developer position at Talan was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 
