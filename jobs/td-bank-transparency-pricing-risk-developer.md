@@ -1,16 +1,16 @@
-# Quantitative Developer at DRW
+# Transparency Pricing & Risk Developer at TD Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [DRW](https://scoutify.ai/companies/drweng?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | New York City, New York, United States |
+| Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Quant Developer |
 | Posted | 2026-07-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/drweng/jobs/7985591) |
+| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Transparency-Pricing---Risk-Developer_R_1500422) |
 
 ## About This Role
 
-This quant developer position at DRW was posted on 2026-07-16.
+This quant developer position at TD Bank was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 
