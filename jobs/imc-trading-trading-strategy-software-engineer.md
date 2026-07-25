@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IMC Trading](https://scoutify.ai/companies/imc?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
+| Location | London, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/imc/jobs/4628622101) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/imc/jobs/4742842101) |
 
 ## About This Role
 
-This software engineer position at IMC Trading was posted on 2026-02-10.
+This software engineer position at IMC Trading was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 
