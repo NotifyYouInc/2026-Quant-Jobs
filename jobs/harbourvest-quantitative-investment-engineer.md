@@ -1,16 +1,16 @@
-# Quantitative Developer  at Engelhart
+# Quantitative Investment Engineer at HarbourVest
 
 | Field | Details |
 |-------|---------|
-| Company | [Engelhart](https://scoutify.ai/companies/engelhart?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [HarbourVest](https://scoutify.ai/companies/harbourvest?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | Boston, Massachusetts, United States |
 | Category | Quant Developer |
 | Posted | 2026-07-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/engelhart/jobs/8076527) |
+| Apply | [View on company site](https://harbourvest.wd5.myworkdayjobs.com/hvp/job/Boston/Quantitative-Investment-Engineer_R2465) |
 
 ## About This Role
 
-This quant developer position at Engelhart was posted on 2026-07-21.
+This quant developer position at HarbourVest was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 
