@@ -1,16 +1,16 @@
-# Senior Software Engineer, C++ at Flow Traders
+# Java Developer at Synechron
 
 | Field | Details |
 |-------|---------|
-| Company | [Flow Traders](https://scoutify.ai/companies/flowtraders?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
+| Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | Singapore, Singapore |
 | Category | Software Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/flowtraders/jobs/8052796) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Singapore/Java-Developer_JR1040920-1) |
 
 ## About This Role
 
-This software engineer position at Flow Traders was posted on 2026-07-09.
+This software engineer position at Synechron was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 
