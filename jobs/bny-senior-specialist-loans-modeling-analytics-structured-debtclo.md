@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BNY](https://scoutify.ai/companies/us2-cx-oj13796?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | 2 locations |
-| Category | Legal |
+| Category | Quant Developer |
 | Posted | 2026-05-20 |
 | Apply | [View on company site](https://eofe.fa.us2.oraclecloud.com/jobs/#73108) |
 
 ## About This Role
 
-This legal position at BNY was posted on 2026-05-20.
+This quant developer position at BNY was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

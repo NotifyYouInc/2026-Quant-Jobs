@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BNY](https://scoutify.ai/companies/us2-cx-oj13796?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Pittsburgh, Pennsylvania, United States |
-| Category | Legal |
+| Category | Quant Developer |
 | Posted | 2026-05-27 |
 | Apply | [View on company site](https://eofe.fa.us2.oraclecloud.com/jobs/#73106) |
 
 ## About This Role
 
-This legal position at BNY was posted on 2026-05-27.
+This quant developer position at BNY was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

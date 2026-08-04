@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Clayton, Victoria, Australia |
-| Category | Embedded / Firmware Engineer |
+| Category | QA Engineer |
 | Posted | 2026-07-13 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000137365029-embedded-software-vv-engineer-development-execution) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Robert Bosch was posted on 2026-07-13.
+This qa engineer position at Robert Bosch was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

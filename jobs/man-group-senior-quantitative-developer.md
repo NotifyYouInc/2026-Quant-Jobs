@@ -1,16 +1,16 @@
-# Sr. Software Engineer - C++ Gateway Developer at Domeyard
+# Senior Quantitative Developer at Man Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Domeyard](https://scoutify.ai/companies/domeyardlp?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Company | [Man Group](https://scoutify.ai/companies/mangroup?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Quant Developer |
-| Posted | 2017-01-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DomeyardLP/106230716-sr-software-engineer-c-gateway-developer) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/mangroup/jobs/4936362101) |
 
 ## About This Role
 
-This quant developer position at Domeyard was posted on 2017-01-20.
+This quant developer position at Man Group was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

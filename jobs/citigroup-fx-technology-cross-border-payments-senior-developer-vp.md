@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Software Engineer |
+| Category | Quant Developer |
 | Posted | 2026-07-06 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/FX-Technology---Cross-Border-Payments--Senior-Developer--VP-_26972935) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-07-06.
+This quant developer position at Citigroup was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Domeyard](https://scoutify.ai/companies/domeyardlp?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Software Engineer |
+| Category | Quant Developer |
 | Posted | 2017-05-05 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/DomeyardLP/115361308-senior-software-engineer-c-feed-handler-developer) |
 
 ## About This Role
 
-This software engineer position at Domeyard was posted on 2017-05-05.
+This quant developer position at Domeyard was posted on 2017-05-05.
 
 ## Get Real-Time Alerts
 

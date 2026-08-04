@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Trafigura](https://scoutify.ai/companies/trafigura?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Software Engineer |
+| Category | Quant Developer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://trafigura.wd3.myworkdayjobs.com/trafiguracareersite/job/London-United-Kingdom/Python-Engineer--Beacon---Gas--Power---Renewables-Technology_R-018441) |
 
 ## About This Role
 
-This software engineer position at Trafigura was posted on 2026-07-24.
+This quant developer position at Trafigura was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

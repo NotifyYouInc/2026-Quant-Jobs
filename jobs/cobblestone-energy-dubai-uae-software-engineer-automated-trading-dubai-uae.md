@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cobblestone Energy -  Dubai, UAE.](https://scoutify.ai/companies/cobblestone-energy?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Dubai, Dubai, United Arab Emirates |
-| Category | Software Engineer |
+| Category | Quant Developer |
 | Posted | 2026-06-30 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/cobblestoneenergy4/jobs/7772309003) |
 
 ## About This Role
 
-This software engineer position at Cobblestone Energy -  Dubai, UAE. was posted on 2026-06-30.
+This quant developer position at Cobblestone Energy -  Dubai, UAE. was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Software Engineer, C++ at Flow Traders
+# Senior Software Engineer - Trading at Swissblock
 
 | Field | Details |
 |-------|---------|
-| Company | [Flow Traders](https://scoutify.ai/companies/flowtraders?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
+| Company | [Swissblock](https://scoutify.ai/companies/swissblock?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | Baar, Zug, Switzerland |
 | Category | Quant Developer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/flowtraders/jobs/8052796) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.lever.co/swissblock/fd46927f-4563-4091-90ad-a6e6dd551e19) |
 
 ## About This Role
 
-This quant developer position at Flow Traders was posted on 2026-07-09.
+This quant developer position at Swissblock was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Singapore, Singapore |
-| Category | Software Engineer |
+| Category | Quant Developer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Singapore/Java-Developer_JR1040920-1) |
 
 ## About This Role
 
-This software engineer position at Synechron was posted on 2026-07-24.
+This quant developer position at Synechron was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

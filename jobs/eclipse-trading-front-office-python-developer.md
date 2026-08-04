@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Eclipse Trading](https://scoutify.ai/companies/eclipse-trading?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
+| Category | Quant Developer |
 | Posted | 2026-07-07 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/eclipsetrading/jobs/8473722002) |
 
 ## About This Role
 
-This software engineer position at Eclipse Trading was posted on 2026-07-07.
+This quant developer position at Eclipse Trading was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

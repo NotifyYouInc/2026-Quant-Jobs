@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Jefferies](https://scoutify.ai/companies/us2-cx-oj59972?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Quant Developer |
+| Category | Data Engineer |
 | Posted | 2026-05-08 |
 | Apply | [View on company site](https://hdid.fa.us2.oraclecloud.com/jobs/#3598) |
 
 ## About This Role
 
-This quant developer position at Jefferies was posted on 2026-05-08.
+This data engineer position at Jefferies was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Assetmark](https://scoutify.ai/companies/assetmark?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Charlotte, North Carolina, United States |
-| Category | Sales Engineer |
+| Category | Business Analyst |
 | Posted | 2026-07-21 |
 | Apply | [View on company site](https://assetmark.wd5.myworkdayjobs.com/assetmark_careers/job/Charlotte-NC/Trading-Solutions-Engineer_Req-003907) |
 
 ## About This Role
 
-This sales engineer position at Assetmark was posted on 2026-07-21.
+This business analyst position at Assetmark was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

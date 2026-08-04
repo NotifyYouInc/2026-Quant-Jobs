@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BNY](https://scoutify.ai/companies/us2-cx-oj13796?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Quant Developer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-06-29 |
 | Apply | [View on company site](https://eofe.fa.us2.oraclecloud.com/jobs/#79088) |
 
 ## About This Role
 
-This quant developer position at BNY was posted on 2026-06-29.
+This machine learning engineer position at BNY was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Tokyo, Tokyo, Japan |
-| Category | DevOps Engineer |
+| Category | Quant Developer |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210756115) |
 
 ## About This Role
 
-This devops engineer position at JPMorgan Chase was posted on 2026-07-27.
+This quant developer position at JPMorgan Chase was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 
