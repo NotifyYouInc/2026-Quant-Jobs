@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | Quant Developer |
+| Category | Data Scientist |
 | Posted | 2026-07-13 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Specialized-Analytics-Sr-Anlst---C12---WARSAW_26977279) |
 
 ## About This Role
 
-This quant developer position at Citigroup was posted on 2026-07-13.
+This data scientist position at Citigroup was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

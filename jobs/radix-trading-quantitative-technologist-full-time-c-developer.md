@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Radix Trading](https://scoutify.ai/companies/radixuniversity?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | 3 locations |
-| Category | Quant Developer |
+| Category | Software Engineer |
 | Posted | 2026-04-09 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/radixuniversity/jobs/8500240002) |
 
 ## About This Role
 
-This quant developer position at Radix Trading was posted on 2026-04-09.
+This software engineer position at Radix Trading was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

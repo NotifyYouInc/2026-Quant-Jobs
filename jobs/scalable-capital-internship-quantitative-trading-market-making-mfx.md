@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Scalable Capital](https://scoutify.ai/companies/scalablecapital?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Germany |
-| Category | Quant Developer |
+| Category | Sales & Trading |
 | Posted | 2026-07-20 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000138633079-internship-quantitative-trading-market-making-mfx) |
 
 ## About This Role
 
-This quant developer position at Scalable Capital was posted on 2026-07-20.
+This sales & trading position at Scalable Capital was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

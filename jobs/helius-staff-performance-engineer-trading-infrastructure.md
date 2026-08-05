@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Helius](https://scoutify.ai/companies/helius?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | United States |
-| Category | Quant Developer |
+| Category | Software Engineer |
 | Posted | 2026-05-28 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/helius/0ec462ba-d448-4586-a07c-6c702aa42234) |
 
 ## About This Role
 
-This quant developer position at Helius was posted on 2026-05-28.
+This software engineer position at Helius was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

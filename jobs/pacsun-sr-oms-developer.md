@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pacsun](https://scoutify.ai/companies/recruiting2-ultipro-com-oj80917?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | United States |
-| Category | Quant Developer |
+| Category | Software Engineer |
 | Posted | 2026-03-18 |
 | Apply | [View on company site](https://recruiting2.ultipro.com/edd1000ebllc/JobBoard/6fb5a475-cea1-435e-89f4-fdc9d00253c1/OpportunityDetail?opportunityId=4fb2894b-2244-4cca-9875-9787d9d379f6) |
 
 ## About This Role
 
-This quant developer position at Pacsun was posted on 2026-03-18.
+This software engineer position at Pacsun was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

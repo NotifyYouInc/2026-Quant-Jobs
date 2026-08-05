@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hyphen Connect Limited](https://scoutify.ai/companies/hyphen-connect-limited?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Not specified |
-| Category | Quant Developer |
+| Category | Software Engineer |
 | Posted | 2026-02-16 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/hyphenconnect/jobs/4481114007) |
 
 ## About This Role
 
-This quant developer position at Hyphen Connect Limited was posted on 2026-02-16.
+This software engineer position at Hyphen Connect Limited was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

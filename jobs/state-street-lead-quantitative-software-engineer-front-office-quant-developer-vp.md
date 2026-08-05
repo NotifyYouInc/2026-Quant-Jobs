@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Quant Developer |
+| Category | Software Engineer |
 | Posted | 2026-07-07 |
 | Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Lead-Quantitative-Software-Engineer---Front-Office-Quant-Developer--VP_R-793619) |
 
 ## About This Role
 
-This quant developer position at State Street was posted on 2026-07-07.
+This software engineer position at State Street was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

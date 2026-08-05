@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IMC Trading](https://scoutify.ai/companies/imc?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Quant Developer |
+| Category | Software Engineer |
 | Posted | 2026-07-17 |
 | Apply | [View on company site](https://job-boards.eu.greenhouse.io/imc/jobs/4742842101) |
 
 ## About This Role
 
-This quant developer position at IMC Trading was posted on 2026-07-17.
+This software engineer position at IMC Trading was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

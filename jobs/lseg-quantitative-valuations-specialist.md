@@ -1,16 +1,16 @@
-# Core Quantitative Strategic Analytics Developer at Deutsche Bank
+# Quantitative Valuations Specialist at LSEG
 
 | Field | Details |
 |-------|---------|
-| Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Quant Developer |
 | Posted | 2026-07-28 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/London-21-Moorfields/Core-Quantitative-Strategic-Analytics-Developer_R0444412) |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/GBR-London-10-Paternoster-Square/Quantitative-Valuations-Specialist_R0119080-1) |
 
 ## About This Role
 
-This quant developer position at Deutsche Bank was posted on 2026-07-28.
+This quant developer position at LSEG was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

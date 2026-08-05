@@ -1,16 +1,16 @@
-# Software Engineer, Automated Trading - Dubai, UAE at Cobblestone Energy -  Dubai, UAE.
+# Senior Quantitative Developer - Python at Qube Research & Technologies
 
 | Field | Details |
 |-------|---------|
-| Company | [Cobblestone Energy -  Dubai, UAE.](https://scoutify.ai/companies/cobblestone-energy?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Company | [Qube Research & Technologies](https://scoutify.ai/companies/qube-research-technologies?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Dubai, Dubai, United Arab Emirates |
 | Category | Software Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/cobblestoneenergy4/jobs/7772309003) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8653491002) |
 
 ## About This Role
 
-This software engineer position at Cobblestone Energy -  Dubai, UAE. was posted on 2026-06-30.
+This software engineer position at Qube Research & Technologies was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

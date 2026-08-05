@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DTCC](https://scoutify.ai/companies/us2-cx-oj32227?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Jersey City, New Jersey, United States |
-| Category | Quant Developer |
+| Category | Software Engineer |
 | Posted | 2026-07-06 |
 | Apply | [View on company site](https://ebxr.fa.us2.oraclecloud.com/jobs/#213387) |
 
 ## About This Role
 
-This quant developer position at DTCC was posted on 2026-07-06.
+This software engineer position at DTCC was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

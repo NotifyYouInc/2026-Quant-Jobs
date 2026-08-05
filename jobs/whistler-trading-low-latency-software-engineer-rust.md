@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Whistler Trading](https://scoutify.ai/companies/whistlertrading?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Quant Developer |
+| Category | Software Engineer |
 | Posted | 2025-09-24 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/whistlertrading/jobs/4019671009) |
 
 ## About This Role
 
-This quant developer position at Whistler Trading was posted on 2025-09-24.
+This software engineer position at Whistler Trading was posted on 2025-09-24.
 
 ## Get Real-Time Alerts
 

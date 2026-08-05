@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Qube Research & Technologies](https://scoutify.ai/companies/qube-research-technologies?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Hong Kong, Hong Kong |
-| Category | Quant Developer |
+| Category | Software Engineer |
 | Posted | 2026-07-16 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8632490002) |
 
 ## About This Role
 
-This quant developer position at Qube Research & Technologies was posted on 2026-07-16.
+This software engineer position at Qube Research & Technologies was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

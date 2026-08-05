@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Eclipse Trading](https://scoutify.ai/companies/eclipse-trading?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Hong Kong, Hong Kong |
-| Category | Quant Developer |
+| Category | Software Engineer |
 | Posted | 2026-07-07 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/eclipsetrading/jobs/7339999002) |
 
 ## About This Role
 
-This quant developer position at Eclipse Trading was posted on 2026-07-07.
+This software engineer position at Eclipse Trading was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

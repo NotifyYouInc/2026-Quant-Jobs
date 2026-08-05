@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Flow Traders](https://scoutify.ai/companies/flowtraders?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
-| Category | Quant Developer |
+| Category | Software Engineer |
 | Posted | 2026-07-09 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/flowtraders/jobs/8052796) |
 
 ## About This Role
 
-This quant developer position at Flow Traders was posted on 2026-07-09.
+This software engineer position at Flow Traders was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

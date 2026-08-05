@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Jersey City, New Jersey, United States |
-| Category | Quant Developer |
+| Category | Software Engineer |
 | Posted | 2026-07-20 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Java-Developer--Electronic-Equities----Vice-President_26979412) |
 
 ## About This Role
 
-This quant developer position at Citigroup was posted on 2026-07-20.
+This software engineer position at Citigroup was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 
