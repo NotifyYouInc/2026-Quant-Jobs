@@ -1,16 +1,16 @@
-# Gas Quant Structurer at Shell
+# Staff Frontend Engineer (Trading) at Phantom
 
 | Field | Details |
 |-------|---------|
-| Company | [Shell](https://scoutify.ai/companies/shell?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Phantom](https://scoutify.ai/companies/phantom?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | United States |
 | Category | Quant Developer |
 | Posted | 2026-07-29 |
-| Apply | [View on company site](https://shell.wd3.myworkdayjobs.com/shellcareers/job/London-York-Road/Gas-Quant-Structurer_R208302) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/phantom/1a7b0f14-556b-4bb0-b1c1-43702d6b56c3) |
 
 ## About This Role
 
-This quant developer position at Shell was posted on 2026-07-29.
+This quant developer position at Phantom was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

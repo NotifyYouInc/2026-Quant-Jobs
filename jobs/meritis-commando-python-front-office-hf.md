@@ -1,16 +1,16 @@
-# Index Product Developer at TMX Group
+# Commando Python front-office H/F at Meritis
 
 | Field | Details |
 |-------|---------|
-| Company | [TMX Group](https://scoutify.ai/companies/tmx-group?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Meritis](https://scoutify.ai/companies/meritis?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | Paris, Île-de-France, France |
 | Category | Quant Developer |
 | Posted | 2026-07-30 |
-| Apply | [View on company site](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/London---2-Gresham-Street/Index-Product-Developer_R-6304) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000140630989-commando-python-front-office-hf) |
 
 ## About This Role
 
-This quant developer position at TMX Group was posted on 2026-07-30.
+This quant developer position at Meritis was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

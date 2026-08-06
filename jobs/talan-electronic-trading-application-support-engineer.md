@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Quant Developer |
+| Category | Customer Success |
 | Posted | 2026-07-10 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000137148039-electronic-trading-application-support-engineer) |
 
 ## About This Role
 
-This quant developer position at Talan was posted on 2026-07-10.
+This customer success position at Talan was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

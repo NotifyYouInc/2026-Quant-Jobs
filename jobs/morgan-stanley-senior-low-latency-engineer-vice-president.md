@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | New York City, New York, United States |
-| Category | Quant Developer |
+| Category | DevOps Engineer |
 | Posted | 2026-07-15 |
 | Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Senior-Low-Latency-Engineer---Vice-President_PT-JR038925) |
 
 ## About This Role
 
-This quant developer position at Morgan Stanley was posted on 2026-07-15.
+This devops engineer position at Morgan Stanley was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 
