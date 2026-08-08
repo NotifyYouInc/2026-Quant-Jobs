@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Singapore, Singapore |
+| Location | Mumbai, Maharashtra, India |
 | Category | Quant Developer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Singapore--Singapore/Quantitative-Developer_26975438) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Quantitative-Developer_26978281) |
 
 ## About This Role
 
-This quant developer position at Citigroup was posted on 2026-07-01.
+This quant developer position at Citigroup was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 
