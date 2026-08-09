@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Hong Kong, Hong Kong |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-07-10 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Hong-Kong--Hong-Kong/Structurer--Complex-Structuring---Systematic---Vice-President_26977932) |
 
 ## About This Role
 
-This machine learning engineer position at Citigroup was posted on 2026-07-10.
+This ai / llm engineer position at Citigroup was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 
