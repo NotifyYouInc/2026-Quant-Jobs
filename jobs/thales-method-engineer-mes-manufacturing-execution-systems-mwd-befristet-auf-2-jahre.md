@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Ditzingen, Baden-Wurttemberg, Germany |
-| Category | Industrial Automation |
+| Category | Quant Developer |
 | Posted | 2026-08-03 |
 | Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/DITZINGEN-SRA-OME/Method-Engineer-MES--Manufacturing-Execution-Systems---m-w-d---befristet-auf-2-Jahre-_R0336499) |
 
 ## About This Role
 
-This industrial automation position at Thales was posted on 2026-08-03.
+This quant developer position at Thales was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Asset Management / Portfolio Management |
+| Category | Quant Developer |
 | Posted | 2026-07-15 |
 | Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Developer--Global-Asset-Management_R260020474) |
 
 ## About This Role
 
-This asset management / portfolio management position at Bank of Montreal was posted on 2026-07-15.
+This quant developer position at Bank of Montreal was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

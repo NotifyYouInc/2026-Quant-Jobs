@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Gresearch](https://scoutify.ai/companies/gresearch?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | London, England, United Kingdom |
-| Category | AI / LLM Engineer |
+| Category | Quant Developer |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://gresearch.wd103.myworkdayjobs.com/g-research/job/London-UK/Natural-Language-Programming-Performance-Engineer_R3676) |
 
 ## About This Role
 
-This ai / llm engineer position at Gresearch was posted on 2026-07-23.
+This quant developer position at Gresearch was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

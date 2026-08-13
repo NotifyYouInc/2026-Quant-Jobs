@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Grasshopper](https://scoutify.ai/companies/grasshopperasia?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Singapore, Singapore |
-| Category | Software Engineer |
+| Category | Quant Developer |
 | Posted | 2026-01-27 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/grasshopperasia/jobs/4634158008) |
 
 ## About This Role
 
-This software engineer position at Grasshopper was posted on 2026-01-27.
+This quant developer position at Grasshopper was posted on 2026-01-27.
 
 ## Get Real-Time Alerts
 

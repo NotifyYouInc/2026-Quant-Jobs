@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Jefferies](https://scoutify.ai/companies/us2-cx-oj59972?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Hong Kong, Hong Kong |
-| Category | Industrial Automation |
+| Category | Quant Developer |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://hdid.fa.us2.oraclecloud.com/jobs/#4648) |
 
 ## About This Role
 
-This industrial automation position at Jefferies was posted on 2026-07-23.
+This quant developer position at Jefferies was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

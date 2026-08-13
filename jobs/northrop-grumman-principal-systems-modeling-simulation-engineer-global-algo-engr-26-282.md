@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Colorado Springs, Colorado, United States |
-| Category | Software Engineer |
+| Category | Quant Developer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Principal-Systems-Modeling-Simulation-Engineer---Global-Algo-Engr--26-282-_R10242085) |
 
 ## About This Role
 
-This software engineer position at Northrop Grumman was posted on 2026-07-24.
+This quant developer position at Northrop Grumman was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

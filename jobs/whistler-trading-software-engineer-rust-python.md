@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Whistler Trading](https://scoutify.ai/companies/whistlertrading?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Surrey, British Columbia, Canada |
-| Category | Software Engineer |
+| Category | Quant Developer |
 | Posted | 2025-10-22 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/whistlertrading/jobs/4021862009) |
 
 ## About This Role
 
-This software engineer position at Whistler Trading was posted on 2025-10-22.
+This quant developer position at Whistler Trading was posted on 2025-10-22.
 
 ## Get Real-Time Alerts
 

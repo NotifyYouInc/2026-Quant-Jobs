@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Domeyard](https://scoutify.ai/companies/domeyardlp?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Software Engineer |
+| Category | Quant Developer |
 | Posted | 2017-03-30 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/DomeyardLP/112041496-senior-software-engineer-c-gateway-developer-hft-hedge-fund) |
 
 ## About This Role
 
-This software engineer position at Domeyard was posted on 2017-03-30.
+This quant developer position at Domeyard was posted on 2017-03-30.
 
 ## Get Real-Time Alerts
 

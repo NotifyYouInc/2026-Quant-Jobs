@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Baker Hughes](https://scoutify.ai/companies/baker-hughes?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Houston, Texas, United States |
-| Category | Customer Success |
+| Category | Quant Developer |
 | Posted | 2026-07-09 |
 | Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-TX-HOUSTON-575-N-DAIRY-ASHFORD-RD-ENERGY-CENTER-II-EC2/Product-Execution-Engineer_R165499-1) |
 
 ## About This Role
 
-This customer success position at Baker Hughes was posted on 2026-07-09.
+This quant developer position at Baker Hughes was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
-| Category | Compliance & Risk Management |
+| Category | Quant Developer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000139597184-senior-quantitative-developer-counterparty-credit-risk-specialist-mwd) |
 
 ## About This Role
 
-This compliance & risk management position at Everience was posted on 2026-07-24.
+This quant developer position at Everience was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 
