@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/NEW-YORK-NY/Executive-Director--Senior-Lead-Securities-Python-Quantitative-Developer--_R-533944) |
+| Location | Charlotte, North Carolina, United States |
+| Category | Quant Developer |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Executive-Director--Senior-Lead-Securities-Python-Quantitative-Developer--_R-564392) |
 
 ## About This Role
 
-This software engineer position at Wells Fargo was posted on 2026-04-01.
+This quant developer position at Wells Fargo was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

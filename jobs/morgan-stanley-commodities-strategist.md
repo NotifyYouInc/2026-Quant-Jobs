@@ -1,12 +1,12 @@
-# Vice President, Strats at Morgan Stanley
+# Commodities Strategist at Morgan Stanley
 
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | New York City, New York, United States |
+| Location | Budapest, Budapest, Hungary |
 | Category | Quant Developer |
 | Posted | 2026-08-06 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Vice-President--Strats_JR036962) |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Budapest-Hungary/Commodities-Strategist_JR041944) |
 
 ## About This Role
 

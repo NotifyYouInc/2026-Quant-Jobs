@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Domeyard](https://scoutify.ai/companies/domeyardlp?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Quant Developer |
+| Category | Asset Management / Portfolio Management |
 | Posted | 2017-05-05 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/DomeyardLP/115359165-algorithmic-trading-developer-at-hedge-fund) |
 
 ## About This Role
 
-This quant developer position at Domeyard was posted on 2017-05-05.
+This asset management / portfolio management position at Domeyard was posted on 2017-05-05.
 
 ## Get Real-Time Alerts
 
