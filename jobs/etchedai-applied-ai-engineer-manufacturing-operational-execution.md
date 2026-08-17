@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Etched.ai](https://scoutify.ai/companies/etched?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | San Jose, California, United States |
-| Category | Quant Developer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/etched/9bceaee5-c3b2-4e8e-9ad3-b3b572a8d9cd) |
 
 ## About This Role
 
-This quant developer position at Etched.ai was posted on 2026-07-24.
+This ai / llm engineer position at Etched.ai was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 
