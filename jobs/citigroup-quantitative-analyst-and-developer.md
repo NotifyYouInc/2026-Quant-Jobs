@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Quant Developer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Quantitative-Analyst-and-Developer_26967418) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Quantitative-Analyst-and-Developer_26984785) |
 
 ## About This Role
 
-This quant developer position at Citigroup was posted on 2026-05-29.
+This quant developer position at Citigroup was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 
