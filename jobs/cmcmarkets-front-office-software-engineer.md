@@ -1,16 +1,16 @@
-# Quantitative Development Manager, AVP at NatWest Group
+# Front Office Software Engineer at Cmcmarkets
 
 | Field | Details |
 |-------|---------|
-| Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Cmcmarkets](https://scoutify.ai/companies/cmcmarkets?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Quant Developer |
 | Posted | 2026-08-12 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Gurugram/Quantitative-Development-Manager--AVP_R-00282506) |
+| Apply | [View on company site](https://cmcmarkets.wd3.myworkdayjobs.com/cmc_markets_careers/job/London/Front-Office-Software-Engineer_CMC5628) |
 
 ## About This Role
 
-This quant developer position at NatWest Group was posted on 2026-08-12.
+This quant developer position at Cmcmarkets was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

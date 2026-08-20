@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Warren, Michigan, United States |
-| Category | Quant Developer |
+| Category | Industrial Automation |
 | Posted | 2026-08-05 |
 | Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Manufacturing-Project-Execution-Engineer_JR-202615313-1) |
 
 ## About This Role
 
-This quant developer position at General Motors was posted on 2026-08-05.
+This industrial automation position at General Motors was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 
