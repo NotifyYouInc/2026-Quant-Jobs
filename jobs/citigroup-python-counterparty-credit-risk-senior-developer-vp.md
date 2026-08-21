@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | Quant Developer |
+| Category | Software Engineer |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Python-Counterparty-Credit-Risk-Senior-Developer---VP_26983280) |
 
 ## About This Role
 
-This quant developer position at Citigroup was posted on 2026-08-06.
+This software engineer position at Citigroup was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

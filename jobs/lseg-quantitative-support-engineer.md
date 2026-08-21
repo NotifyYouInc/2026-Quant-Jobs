@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Bucharest, București, Romania |
-| Category | Quant Developer |
+| Category | Customer Success |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/Bucharest-Romania/Quantitative-Support-Engineer_R0122066-1) |
 
 ## About This Role
 
-This quant developer position at LSEG was posted on 2026-08-12.
+This customer success position at LSEG was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Software Engineer - Trading at Swissblock
+# Senior Software Engineer - Risk at FalconX
 
 | Field | Details |
 |-------|---------|
-| Company | [Swissblock](https://scoutify.ai/companies/swissblock?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Baar, Zug, Switzerland |
+| Company | [FalconX](https://scoutify.ai/companies/falconx?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.lever.co/swissblock/fd46927f-4563-4091-90ad-a6e6dd551e19) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/falconx/jobs/4719876005) |
 
 ## About This Role
 
-This software engineer position at Swissblock was posted on 2026-07-27.
+This software engineer position at FalconX was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

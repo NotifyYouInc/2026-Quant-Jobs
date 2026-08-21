@@ -1,16 +1,16 @@
-# Quantitative Developer  at WorldQuant
+# Quantitative Developer - Internship - Summer 2027 at InfiniteQuant
 
 | Field | Details |
 |-------|---------|
-| Company | [WorldQuant](https://scoutify.ai/companies/worldquant?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Connecticut, US |
+| Company | [InfiniteQuant](https://scoutify.ai/companies/infinitequant?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | 2 locations |
 | Category | Quant Developer |
 | Posted | 2026-08-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/worldquant/jobs/4700347006) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InfiniteQuant/744000143287594-quantitative-developer-internship-summer-2027) |
 
 ## About This Role
 
-This quant developer position at WorldQuant was posted on 2026-08-13.
+This quant developer position at InfiniteQuant was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Canary Wharf, England, United Kingdom |
-| Category | Quant Developer |
+| Category | Software Engineer |
 | Posted | 2026-08-11 |
 | Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Low-Latency-Developer_JR-0000109868-1) |
 
 ## About This Role
 
-This quant developer position at Barclays was posted on 2026-08-11.
+This software engineer position at Barclays was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

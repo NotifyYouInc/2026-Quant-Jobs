@@ -1,16 +1,16 @@
-# Executive Director (Senior Lead Securities Python Quantitative Developer ) at Wells Fargo
+# Senior Lead Mortgage Securities Quantitative Analytics Specialist at Wells Fargo
 
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Charlotte, North Carolina, United States |
-| Category | Software Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Executive-Director--Senior-Lead-Securities-Python-Quantitative-Developer--_R-564392) |
+| Category | Quant Developer |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Lead-Mortgage-Securities-Quantitative-Analytics-Specialist_R-568342) |
 
 ## About This Role
 
-This software engineer position at Wells Fargo was posted on 2026-08-06.
+This quant developer position at Wells Fargo was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 
