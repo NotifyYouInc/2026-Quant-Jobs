@@ -1,16 +1,16 @@
-# Trading Strategy Software Engineer at IMC Trading
+# Quantitative Developer - Trading Systems, C# at Qube Research & Technologies
 
 | Field | Details |
 |-------|---------|
-| Company | [IMC Trading](https://scoutify.ai/companies/imc?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Company | [Qube Research & Technologies](https://scoutify.ai/companies/qube-research-technologies?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Quant Developer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/imc/jobs/4742842101) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8705713002) |
 
 ## About This Role
 
-This quant developer position at IMC Trading was posted on 2026-07-17.
+This quant developer position at Qube Research & Technologies was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

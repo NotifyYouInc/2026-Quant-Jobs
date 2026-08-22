@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | 2 locations |
-| Category | Industrial Automation |
+| Category | Quant Developer |
 | Posted | 2026-08-05 |
 | Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Senior-Execution-Engineer---Material-Flow---Robotics_JR-202615900) |
 
 ## About This Role
 
-This industrial automation position at General Motors was posted on 2026-08-05.
+This quant developer position at General Motors was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

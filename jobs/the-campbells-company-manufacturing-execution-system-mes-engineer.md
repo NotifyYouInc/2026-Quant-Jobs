@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Campbell's Company](https://scoutify.ai/companies/campbellsoup?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Dixon, California, United States |
-| Category | Industrial Automation |
+| Category | Quant Developer |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---CA---Dixon/Manufacturing-Execution-System--MES--Engineer_Req-67236) |
 
 ## About This Role
 
-This industrial automation position at The Campbell's Company was posted on 2026-08-07.
+This quant developer position at The Campbell's Company was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 
