@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Sales Engineer |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Lead-Quantitative-Model-Solutions-Specialist_R-490898) |
+| Location | Hyderabad, Telangana, India |
+| Category | Quant Developer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Lead-Quantitative-Model-Solutions-Specialist_R-569051-1) |
 
 ## About This Role
 
-This sales engineer position at Wells Fargo was posted on 2026-05-26.
+This quant developer position at Wells Fargo was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 
