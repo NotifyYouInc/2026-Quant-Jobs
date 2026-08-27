@@ -1,16 +1,16 @@
-# Trading Analyst at Wintermute Trading
+# Lead Equity Flow Derivatives Java Dev - Vice President at Morgan Stanley
 
 | Field | Details |
 |-------|---------|
-| Company | [Wintermute Trading](https://scoutify.ai/companies/wintermute-trading-106987?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | New York City, New York, United States |
 | Category | Quant Developer |
 | Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.lever.co/wintermute-trading/81f14b93-9b5b-42c1-96d9-56c0cfa9e44e) |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Lead-Equity-Flow-Derivatives-Java-Dev---Vice-President_PT-JR042136) |
 
 ## About This Role
 
-This quant developer position at Wintermute Trading was posted on 2026-08-20.
+This quant developer position at Morgan Stanley was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

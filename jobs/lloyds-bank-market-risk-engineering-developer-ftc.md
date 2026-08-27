@@ -1,16 +1,16 @@
-# Lead Data Scientist - Treasury Markets Quant at WISE
+# Market Risk Engineering Developer (FTC) at Lloyds Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Company | [Lloyds Bank](https://scoutify.ai/companies/lbg?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Quant Developer |
 | Posted | 2026-08-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000144344607-lead-data-scientist-treasury-markets-quant) |
+| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/London/Market-Risk-Engineering-Developer--FTC-_161477-2) |
 
 ## About This Role
 
-This quant developer position at WISE was posted on 2026-08-19.
+This quant developer position at Lloyds Bank was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

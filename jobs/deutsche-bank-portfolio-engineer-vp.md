@@ -1,16 +1,16 @@
-# Trading Desk Operations Engineer at Jane Street
+# Portfolio Engineer, VP at Deutsche Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [Jane Street](https://scoutify.ai/companies/jane-street?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Sales & Trading |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://www.janestreet.com/join-jane-street/apply/8700980002?gh_jid=8700980002) |
+| Category | Quant Developer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/London-45-Cannon-Street/Portfolio-Engineer--VP_R0444710-1) |
 
 ## About This Role
 
-This sales & trading position at Jane Street was posted on 2026-08-13.
+This quant developer position at Deutsche Bank was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 
