@@ -1,16 +1,16 @@
-# Senior Quantitative Developer at Centrica
+# Sr. Staff Software Engineer, Unified Trading Architect at Coinbase
 
 | Field | Details |
 |-------|---------|
-| Company | [Centrica](https://scoutify.ai/companies/centrica?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | 3 locations |
+| Company | [Coinbase](https://scoutify.ai/companies/coinbase?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | United States |
 | Category | Quant Developer |
 | Posted | 2026-08-20 |
-| Apply | [View on company site](https://centrica.wd3.myworkdayjobs.com/Centrica/job/Greater-London/Quantitative-Developer_R0070801) |
+| Apply | [View on company site](https://www.coinbase.com/careers/positions/8144772?gh_jid=8144772) |
 
 ## About This Role
 
-This quant developer position at Centrica was posted on 2026-08-20.
+This quant developer position at Coinbase was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

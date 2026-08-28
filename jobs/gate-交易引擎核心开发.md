@@ -1,16 +1,16 @@
-# Senior Quantitative Developer at Centrica
+# 交易引擎核心开发 at Gate
 
 | Field | Details |
 |-------|---------|
-| Company | [Centrica](https://scoutify.ai/companies/centrica?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | 3 locations |
+| Company | [Gate](https://scoutify.ai/companies/gate?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | Singapore |
 | Category | Quant Developer |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://centrica.wd3.myworkdayjobs.com/Centrica/job/Greater-London/Quantitative-Developer_R0070801) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.lever.co/gate/d14eba78-ecc4-49b3-934c-ed8fec03cabe) |
 
 ## About This Role
 
-This quant developer position at Centrica was posted on 2026-08-20.
+This quant developer position at Gate was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Quantitative Finance Analyst at Bank of America
+# ALM Director - Balance Sheet Analytics (IC) at PNC Financial
 
 | Field | Details |
 |-------|---------|
-| Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | 3 locations |
 | Category | Quant Developer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Quantitative-Finance-Analyst_26030330) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/OH---Cleveland-44114/ALM-Director---Balance-Sheet-Analytics--IC-_R231863-1) |
 
 ## About This Role
 
-This quant developer position at Bank of America was posted on 2026-08-19.
+This quant developer position at PNC Financial was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 
