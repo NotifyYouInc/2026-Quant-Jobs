@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Not specified |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200657876/cpu-microarchitect-rtl-engineer-execution-load-store) |
+| Location | Santa Clara, California, United States |
+| Category | Quant Developer |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200679477/cpu-microarchitect-rtl-engineer-execution-load-store) |
 
 ## About This Role
 
-This semiconductor / chip design position at Apple was posted on 2026-04-14.
+This quant developer position at Apple was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

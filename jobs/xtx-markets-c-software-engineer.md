@@ -1,16 +1,16 @@
-# Associate at Blackrock
+# C++ Software Engineer at XTX Markets
 
 | Field | Details |
 |-------|---------|
-| Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | New York City, New York, United States |
+| Company | [XTX Markets](https://scoutify.ai/companies/xtxmarketstechnologies?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | Singapore, Singapore |
 | Category | Quant Developer |
 | Posted | 2026-08-21 |
-| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/New-York-NY/Associate_R265001) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/xtxmarketstechnologies/jobs/7831489003) |
 
 ## About This Role
 
-This quant developer position at Blackrock was posted on 2026-08-21.
+This quant developer position at XTX Markets was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 
