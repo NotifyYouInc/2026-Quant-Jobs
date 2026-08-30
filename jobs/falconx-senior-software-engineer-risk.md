@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [FalconX](https://scoutify.ai/companies/falconx?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Quant Developer |
+| Category | Software Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/falconx/jobs/4719876005) |
 
 ## About This Role
 
-This quant developer position at FalconX was posted on 2026-08-14.
+This software engineer position at FalconX was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Quant Developer |
+| Category | Software Engineer |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/C---Python-Quantitative-Developer---Cross-Asset-XVA--Vice-President-_26982156) |
 
 ## About This Role
 
-This quant developer position at Citigroup was posted on 2026-08-06.
+This software engineer position at Citigroup was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

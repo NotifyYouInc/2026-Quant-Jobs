@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Capstone Investment Advisors](https://scoutify.ai/companies/capstoneinvestmentadvisors?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | New York City, New York, United States |
-| Category | Quant Developer |
+| Category | Software Engineer |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8488237002) |
 
 ## About This Role
 
-This quant developer position at Capstone Investment Advisors was posted on 2026-08-18.
+This software engineer position at Capstone Investment Advisors was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

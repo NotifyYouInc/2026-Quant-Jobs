@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cmcmarkets](https://scoutify.ai/companies/cmcmarkets?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Quant Developer |
+| Category | Software Engineer |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://cmcmarkets.wd3.myworkdayjobs.com/cmc_markets_careers/job/London/Front-Office-Software-Engineer_CMC5628) |
 
 ## About This Role
 
-This quant developer position at Cmcmarkets was posted on 2026-08-12.
+This software engineer position at Cmcmarkets was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

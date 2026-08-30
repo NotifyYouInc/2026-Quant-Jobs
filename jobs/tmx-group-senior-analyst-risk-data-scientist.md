@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TMX Group](https://scoutify.ai/companies/tmx-group?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Montréal, Quebec, Canada |
-| Category | Quant Developer |
+| Category | Data Scientist |
 | Posted | 2026-07-25 |
 | Apply | [View on company site](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Montreal---1190-av-des-Canadiens-de-Montreal/Senior-Analyst--Risk-Data-Scientist_R-6287) |
 
 ## About This Role
 
-This quant developer position at TMX Group was posted on 2026-07-25.
+This data scientist position at TMX Group was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

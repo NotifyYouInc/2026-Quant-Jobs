@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Montréal, Quebec, Canada |
-| Category | Quant Developer |
+| Category | Software Engineer |
 | Posted | 2026-08-17 |
 | Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MONTRAL-Quebec-Canada/XMLNAME-2027-Winter-Capital-Markets-QTS--Software-Developer--Montreal---4-Months_R-0000184676) |
 
 ## About This Role
 
-This quant developer position at Royal Bank of Canada was posted on 2026-08-17.
+This software engineer position at Royal Bank of Canada was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

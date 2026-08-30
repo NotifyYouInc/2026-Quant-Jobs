@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DV Trading](https://scoutify.ai/companies/dvtrading?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | New York City, New York, United States |
-| Category | Quant Developer |
+| Category | Software Engineer |
 | Posted | 2026-08-04 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/dvtrading/jobs/4721259005) |
 
 ## About This Role
 
-This quant developer position at DV Trading was posted on 2026-08-04.
+This software engineer position at DV Trading was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 
