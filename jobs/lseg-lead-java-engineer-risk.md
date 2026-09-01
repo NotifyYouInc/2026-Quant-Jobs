@@ -1,16 +1,16 @@
-# Quantitative Support Engineer at LSEG
+# Lead Java Engineer (Risk) at LSEG
 
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Bucharest, București, Romania |
-| Category | Customer Success |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/Bucharest-Romania/Quantitative-Support-Engineer_R0122066-1) |
+| Location | London, England, United Kingdom |
+| Category | Software Engineer |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Lead-Java-Engineer--Risk-_R0121384) |
 
 ## About This Role
 
-This customer success position at LSEG was posted on 2026-08-12.
+This software engineer position at LSEG was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 
