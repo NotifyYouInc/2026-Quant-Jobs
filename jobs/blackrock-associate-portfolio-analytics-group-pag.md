@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Data Scientist |
+| Category | Quant Developer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/London-Greater-London/Associate--Portfolio-Analytics-Group--PAG-_R266195) |
 
 ## About This Role
 
-This data scientist position at Blackrock was posted on 2026-08-19.
+This quant developer position at Blackrock was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

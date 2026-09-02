@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Maven Securities](https://scoutify.ai/companies/mavensecuritiesholdingltd?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Software Engineer |
-| Posted | 2026-01-22 |
+| Category | Sales & Trading |
+| Posted | 2026-08-25 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/6049671) |
 
 ## About This Role
 
-This software engineer position at Maven Securities was posted on 2026-01-22.
+This sales & trading position at Maven Securities was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

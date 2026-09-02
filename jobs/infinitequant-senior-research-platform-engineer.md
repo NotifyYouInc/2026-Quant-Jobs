@@ -5,12 +5,12 @@
 | Company | [InfiniteQuant](https://scoutify.ai/companies/infinitequant?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Dubai, Dubai, United Arab Emirates |
 | Category | Quant Developer |
-| Posted | 2025-09-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InfiniteQuant/744000081400105-senior-research-platform-engineer) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InfiniteQuant/744000145678064-senior-research-platform-engineer) |
 
 ## About This Role
 
-This quant developer position at InfiniteQuant was posted on 2025-09-11.
+This quant developer position at InfiniteQuant was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | 3 locations |
-| Category | Quant Developer |
+| Category | Data Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/OH---Cleveland-44114/ALM-Director---Balance-Sheet-Analytics--IC-_R231863-1) |
 
 ## About This Role
 
-This quant developer position at PNC Financial was posted on 2026-08-20.
+This data engineer position at PNC Financial was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 
