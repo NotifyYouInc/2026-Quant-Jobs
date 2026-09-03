@@ -1,16 +1,16 @@
-# Senior Developer - QIS Technology at Barclays
+# Equity Derivatives - Warrant Developer at Htsc
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Company | [Htsc](https://scoutify.ai/companies/htsc?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Hong Kong, Hong Kong |
 | Category | Quant Developer |
 | Posted | 2026-08-27 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Hong-Kong-Cheung-Kong-Center/Senior-Developer---QIS-Technology_JR-0000124776-8) |
+| Apply | [View on company site](https://htsc.wd102.myworkdayjobs.com/huatai_careers/job/Hong-Kong/Equity-Derivatives---Warrant-Developer_) |
 
 ## About This Role
 
-This quant developer position at Barclays was posted on 2026-08-27.
+This quant developer position at Htsc was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 
