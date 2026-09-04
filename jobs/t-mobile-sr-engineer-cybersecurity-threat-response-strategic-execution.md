@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | 3 locations |
-| Category | Cybersecurity Engineer |
+| Category | Quant Developer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Sr-Engineer--Cybersecurity---Threat-Response-Strategic-Execution_REQ360055-1) |
 
 ## About This Role
 
-This cybersecurity engineer position at T-Mobile was posted on 2026-08-21.
+This quant developer position at T-Mobile was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

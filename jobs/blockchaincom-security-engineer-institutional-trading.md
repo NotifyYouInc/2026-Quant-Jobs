@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Blockchain.com](https://scoutify.ai/companies/blockchaincom?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Cybersecurity Engineer |
+| Category | Quant Developer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/blockchain/jobs/8147195) |
 
 ## About This Role
 
-This cybersecurity engineer position at Blockchain.com was posted on 2026-08-21.
+This quant developer position at Blockchain.com was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 
