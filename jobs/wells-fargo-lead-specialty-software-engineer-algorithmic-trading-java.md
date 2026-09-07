@@ -1,12 +1,12 @@
-# Senior Specialty Software Engineer - Java, E-Trading at Wells Fargo
+# Lead Specialty Software Engineer - Algorithmic Trading, Java at Wells Fargo
 
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
 | Posted | 2026-08-31 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Senior-Specialty-Software-Engineer---Java--E-Trading_R-564518-1) |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Lead-Specialty-Software-Engineer---Algorithmic-Trading--Java_R-564520) |
 
 ## About This Role
 
