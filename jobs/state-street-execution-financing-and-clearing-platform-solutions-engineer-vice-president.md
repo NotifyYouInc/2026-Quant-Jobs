@@ -1,16 +1,16 @@
-# Financial Engineer, truView, Vice President at State Street
+# Execution, Financing and Clearing Platform Solutions Engineer, Vice President at State Street
 
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Quant Research |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Toronto-Ontario/Financial-Engineer--truView--Vice-President_R-795952) |
+| Location | Boston, Massachusetts, United States |
+| Category | Software Engineer |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Execution--Financing-and-Clearing-Platform-Solutions-Engineer--Vice-President_R-797094) |
 
 ## About This Role
 
-This quant research position at State Street was posted on 2026-08-19.
+This software engineer position at State Street was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Front Office Quant Analyst at Talan
+# Real-Time Market Data & Analytics Lead at Shell
 
 | Field | Details |
 |-------|---------|
-| Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Company | [Shell](https://scoutify.ai/companies/shell?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Quant Research |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000141879193-front-office-quant-analyst) |
+| Category | Quant Developer |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://shell.wd3.myworkdayjobs.com/shellcareers/job/London-York-Road/Real-Time-Market-Data---Analytics-Lead_R207920-1) |
 
 ## About This Role
 
-This quant research position at Talan was posted on 2026-08-06.
+This quant developer position at Shell was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

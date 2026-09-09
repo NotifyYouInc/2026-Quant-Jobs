@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hudson River Trading](https://scoutify.ai/companies/hudson-river-trading?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | 2 locations |
+| Location | 5 locations |
 | Category | Customer Success |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7116458) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8170656) |
 
 ## About This Role
 
-This customer success position at Hudson River Trading was posted on 2026-04-07.
+This customer success position at Hudson River Trading was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

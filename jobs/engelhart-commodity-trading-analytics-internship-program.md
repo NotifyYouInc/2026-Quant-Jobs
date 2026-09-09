@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Engelhart](https://scoutify.ai/companies/engelhart?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Quant Developer |
+| Category | Data Scientist |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/engelhart/jobs/8164581) |
 
 ## About This Role
 
-This quant developer position at Engelhart was posted on 2026-08-28.
+This data scientist position at Engelhart was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 
