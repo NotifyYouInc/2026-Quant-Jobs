@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | 2 locations |
-| Category | QA Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Nashik-Maharashtra-India/Testing-Engineer-site-execution-_JR00033124) |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Nashik-Maharashtra-India/Testing-Engineer-site-execution-_JR00045912-1) |
 
 ## About This Role
 
-This qa engineer position at ABB was posted on 2026-05-13.
+This electrical / hardware engineer position at ABB was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 
