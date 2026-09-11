@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | New York City, New York, United States |
-| Category | Quant Developer |
+| Category | Leadership Development Program |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Electronic-Trading-Associate-Graduate-Program-2027-New-York_JR-0000122953-1) |
 
 ## About This Role
 
-This quant developer position at Barclays was posted on 2026-09-01.
+This leadership development program position at Barclays was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

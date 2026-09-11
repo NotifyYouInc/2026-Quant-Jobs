@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DV Trading](https://scoutify.ai/companies/dvtrading?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | New York City, New York, United States |
-| Category | Quant Developer |
+| Category | Data Analyst |
 | Posted | 2026-08-17 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/dvtrading/jobs/4719134005) |
 
 ## About This Role
 
-This quant developer position at DV Trading was posted on 2026-08-17.
+This data analyst position at DV Trading was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

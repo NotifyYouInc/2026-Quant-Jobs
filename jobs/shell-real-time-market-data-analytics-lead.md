@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Shell](https://scoutify.ai/companies/shell?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Quant Developer |
+| Category | Data Analyst |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://shell.wd3.myworkdayjobs.com/shellcareers/job/London-York-Road/Real-Time-Market-Data---Analytics-Lead_R207920-1) |
 
 ## About This Role
 
-This quant developer position at Shell was posted on 2026-09-01.
+This data analyst position at Shell was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

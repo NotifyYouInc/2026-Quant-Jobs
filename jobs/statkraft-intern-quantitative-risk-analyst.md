@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Statkraft](https://scoutify.ai/companies/statkraft?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Oslo, Oslo, Norway |
-| Category | Quant Developer |
+| Category | Compliance & Risk Management |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/statkraft1/744000147175339-intern-quantitative-risk-analyst) |
 
 ## About This Role
 
-This quant developer position at Statkraft was posted on 2026-09-03.
+This compliance & risk management position at Statkraft was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

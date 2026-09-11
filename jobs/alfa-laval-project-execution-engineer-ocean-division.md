@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alfa Laval](https://scoutify.ai/companies/alfa-laval?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Singapore, Singapore |
+| Location | 2 locations |
 | Category | Project Manager |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://alfalaval.wd3.myworkdayjobs.com/alfa_laval_jobs/job/Singapore/Project-Execution-Engineer--Ocean-Division_JR0044908) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://alfalaval.wd3.myworkdayjobs.com/alfa_laval_jobs/job/Shah-Alam/Project-Execution-Engineer_JR0047986) |
 
 ## About This Role
 
-This project manager position at Alfa Laval was posted on 2026-04-23.
+This project manager position at Alfa Laval was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 
