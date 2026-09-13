@@ -1,12 +1,12 @@
-# Senior Developer - QIS Technology at Barclays
+# Senior Developer – QIS Technology at Barclays
 
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Hong Kong, Hong Kong |
+| Location | New York City, New York, United States |
 | Category | Quant Developer |
 | Posted | 2026-08-27 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Hong-Kong-Cheung-Kong-Center/Senior-Developer---QIS-Technology_JR-0000124776-8) |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Senior-Developer---QIS-Technology_JR-0000123650-1) |
 
 ## About This Role
 
