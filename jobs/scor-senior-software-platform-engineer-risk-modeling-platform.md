@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SCOR](https://scoutify.ai/companies/ocs-cx-oj97530?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Switzerland |
-| Category | Software Engineer |
+| Category | Quant Developer |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#5352) |
 
 ## About This Role
 
-This software engineer position at SCOR was posted on 2026-08-28.
+This quant developer position at SCOR was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Singapore, Singapore |
-| Category | Software Engineer |
+| Category | Quant Developer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788171) |
 
 ## About This Role
 
-This software engineer position at JPMorgan Chase was posted on 2026-09-04.
+This quant developer position at JPMorgan Chase was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

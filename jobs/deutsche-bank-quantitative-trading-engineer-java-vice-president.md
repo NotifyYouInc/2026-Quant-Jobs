@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | New York City, New York, United States |
-| Category | Software Engineer |
+| Category | Quant Developer |
 | Posted | 2026-08-26 |
 | Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/New-York-1-Columbus-Circle/Quantitative-Trading-Engineer--Java----Vice-President_R0425800-1) |
 
 ## About This Role
 
-This software engineer position at Deutsche Bank was posted on 2026-08-26.
+This quant developer position at Deutsche Bank was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

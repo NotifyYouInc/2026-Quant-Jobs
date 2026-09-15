@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | 2 locations |
-| Category | Electrical / Hardware Engineer |
+| Category | Quant Developer |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Nashik-Maharashtra-India/Testing-Engineer-site-execution-_JR00045912-1) |
 
 ## About This Role
 
-This electrical / hardware engineer position at ABB was posted on 2026-09-02.
+This quant developer position at ABB was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

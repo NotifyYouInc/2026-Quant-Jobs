@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Virtu](https://scoutify.ai/companies/virtu?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Software Engineer |
+| Category | Quant Developer |
 | Posted | 2026-08-26 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/virtu/jobs/8745933002) |
 
 ## About This Role
 
-This software engineer position at Virtu was posted on 2026-08-26.
+This quant developer position at Virtu was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

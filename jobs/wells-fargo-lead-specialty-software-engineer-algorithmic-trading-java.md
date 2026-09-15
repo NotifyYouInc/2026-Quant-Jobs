@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
+| Category | Quant Developer |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Lead-Specialty-Software-Engineer---Algorithmic-Trading--Java_R-564520) |
 
 ## About This Role
 
-This software engineer position at Wells Fargo was posted on 2026-08-31.
+This quant developer position at Wells Fargo was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

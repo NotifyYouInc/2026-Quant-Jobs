@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | New York City, New York, United States |
-| Category | Software Engineer |
+| Category | Quant Developer |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Software-Engineer-III---AMRS-Linear-Rates-Technology-team_26032401) |
 
 ## About This Role
 
-This software engineer position at Bank of America was posted on 2026-09-02.
+This quant developer position at Bank of America was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

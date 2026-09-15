@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [XTX Markets](https://scoutify.ai/companies/xtxmarketstechnologies?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Singapore, Singapore |
-| Category | Software Engineer |
+| Category | Quant Developer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/xtxmarketstechnologies/jobs/7831489003) |
 
 ## About This Role
 
-This software engineer position at XTX Markets was posted on 2026-08-21.
+This quant developer position at XTX Markets was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Hong Kong, Hong Kong |
-| Category | Software Engineer |
+| Category | Quant Developer |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Hong-Kong-Hong-Kong/Ultra-low-latency-Trading-Solution-Developer--Vice-President--Institutional-Securities-Technology_JR042179-1) |
 
 ## About This Role
 
-This software engineer position at Morgan Stanley was posted on 2026-08-12.
+This quant developer position at Morgan Stanley was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

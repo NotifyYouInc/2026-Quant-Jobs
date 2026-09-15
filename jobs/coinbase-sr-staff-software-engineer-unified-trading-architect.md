@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Coinbase](https://scoutify.ai/companies/coinbase?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | United States |
-| Category | Software Engineer |
+| Category | Quant Developer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://www.coinbase.com/careers/positions/8144772?gh_jid=8144772) |
 
 ## About This Role
 
-This software engineer position at Coinbase was posted on 2026-08-20.
+This quant developer position at Coinbase was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

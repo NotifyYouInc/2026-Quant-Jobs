@@ -1,16 +1,16 @@
-# Senior Specialist, Full-Stack Engineer at BNY
+# Lead Python Application Developer - Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
-| Company | [BNY](https://scoutify.ai/companies/us2-cx-oj13796?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Quant Developer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://eofe.fa.us2.oraclecloud.com/jobs/#78504) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Lead-Python-Application-Developer---Vice-President_26987796-1) |
 
 ## About This Role
 
-This quant developer position at BNY was posted on 2026-08-31.
+This quant developer position at Citigroup was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

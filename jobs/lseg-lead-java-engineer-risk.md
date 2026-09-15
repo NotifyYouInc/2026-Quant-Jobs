@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Software Engineer |
+| Category | Quant Developer |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Lead-Java-Engineer--Risk-_R0121384) |
 
 ## About This Role
 
-This software engineer position at LSEG was posted on 2026-08-24.
+This quant developer position at LSEG was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

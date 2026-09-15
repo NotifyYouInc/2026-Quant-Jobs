@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pilot Flying J](https://scoutify.ai/companies/pilotflyingj?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Houston, Texas, United States |
-| Category | Software Engineer |
+| Category | Quant Developer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/PilotCompany/744000147526644-developer-i-commercial-trading-technologies) |
 
 ## About This Role
 
-This software engineer position at Pilot Flying J was posted on 2026-09-04.
+This quant developer position at Pilot Flying J was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

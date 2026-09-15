@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Williams](https://scoutify.ai/companies/williams?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Salt Lake City, Utah, United States |
-| Category | Electrical / Hardware Engineer |
+| Category | Quant Developer |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://williams.wd5.myworkdayjobs.com/External/job/UT-Salt-Lake-City---Office/Electrical-Engineer-III---Senior-Electrical-Engineer---Project-Execution--Western-Interstates_R111993) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Williams was posted on 2026-09-02.
+This quant developer position at Williams was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

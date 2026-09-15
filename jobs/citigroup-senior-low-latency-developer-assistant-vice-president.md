@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
+| Category | Quant Developer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Senior-Low-Latency-Developer---Assistant-Vice-President_26991359) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-09-04.
+This quant developer position at Citigroup was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

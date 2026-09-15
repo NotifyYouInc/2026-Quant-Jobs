@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mako](https://scoutify.ai/companies/mako?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Software Engineer |
+| Category | Quant Developer |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://www.mako.com/opportunities/job-listing/8654611002?gh_jid=8654611002) |
 
 ## About This Role
 
-This software engineer position at Mako was posted on 2026-09-01.
+This quant developer position at Mako was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 
