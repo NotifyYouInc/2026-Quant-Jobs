@@ -1,16 +1,16 @@
-# Lead Site Reliability Engineer, Electronic Colo Trading at JPMorgan Chase
+# Quantitative Trading & Research - Quantitative Developer - Associate at JPMorgan Chase
 
 | Field | Details |
 |-------|---------|
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Hong Kong, Hong Kong |
 | Category | Quant Developer |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210785307) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210789209) |
 
 ## About This Role
 
-This quant developer position at JPMorgan Chase was posted on 2026-09-02.
+This quant developer position at JPMorgan Chase was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

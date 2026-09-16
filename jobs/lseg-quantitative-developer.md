@@ -1,16 +1,16 @@
-# Quantitative Developer Intern at Xantium
+# Quantitative Developer at LSEG
 
 | Field | Details |
 |-------|---------|
-| Company | [Xantium](https://scoutify.ai/companies/xantium?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | London, Ohio, United States |
+| Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | Buffalo, New York, United States |
 | Category | Quant Developer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/xantium/jobs/4360768009) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/Buffalo---Fountain-Plaza/Quantitative-Developer_R0122741) |
 
 ## About This Role
 
-This quant developer position at Xantium was posted on 2026-08-17.
+This quant developer position at LSEG was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

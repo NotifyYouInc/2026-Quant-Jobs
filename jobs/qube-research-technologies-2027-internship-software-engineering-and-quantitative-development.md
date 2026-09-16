@@ -1,16 +1,16 @@
-# Trading Operations Analyst at Qube Research & Technologies
+# 2027 - Internship, Software Engineering and Quantitative Development at Qube Research & Technologies
 
 | Field | Details |
 |-------|---------|
 | Company | [Qube Research & Technologies](https://scoutify.ai/companies/qube-research-technologies?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Hong Kong, Hong Kong |
+| Location | London, England, United Kingdom |
 | Category | Quant Developer |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8735904002) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773084002) |
 
 ## About This Role
 
-This quant developer position at Qube Research & Technologies was posted on 2026-08-24.
+This quant developer position at Qube Research & Technologies was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

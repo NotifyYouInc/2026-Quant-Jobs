@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Alfa Laval](https://scoutify.ai/companies/alfa-laval?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | 2 locations |
-| Category | Project Manager |
+| Category | Quant Developer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://alfalaval.wd3.myworkdayjobs.com/alfa_laval_jobs/job/Shah-Alam/Project-Execution-Engineer_JR0047986) |
 
 ## About This Role
 
-This project manager position at Alfa Laval was posted on 2026-09-04.
+This quant developer position at Alfa Laval was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

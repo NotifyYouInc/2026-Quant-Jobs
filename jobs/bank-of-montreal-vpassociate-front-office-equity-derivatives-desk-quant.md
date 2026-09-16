@@ -1,16 +1,16 @@
-# Trading Intern - Summer 2027 (DV Commodities) at DV Trading
+# VP/Associate, Front Office Equity Derivatives Desk Quant at Bank of Montreal
 
 | Field | Details |
 |-------|---------|
-| Company | [DV Trading](https://scoutify.ai/companies/dvtrading?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | New York City, New York, United States |
 | Category | Quant Developer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dvtrading/jobs/4719134005) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/New-York-NY-USA/VP-Associate--Front-Office-Equity-Derivatives-Desk-Quant_R260025879) |
 
 ## About This Role
 
-This quant developer position at DV Trading was posted on 2026-08-17.
+This quant developer position at Bank of Montreal was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

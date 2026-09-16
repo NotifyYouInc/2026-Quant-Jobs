@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Data Analyst |
+| Category | Quant Developer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Sr-Product-Solution-Analyst--TD-Securities_R_1509358) |
 
 ## About This Role
 
-This data analyst position at TD Bank was posted on 2026-09-03.
+This quant developer position at TD Bank was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

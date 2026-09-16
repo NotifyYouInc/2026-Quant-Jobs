@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Point72](https://scoutify.ai/companies/point72?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | 2 locations |
-| Category | Customer Success |
+| Category | Quant Developer |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://boards.greenhouse.io/point72/jobs/8731025002?gh_jid=8731025002) |
 
 ## About This Role
 
-This customer success position at Point72 was posted on 2026-08-24.
+This quant developer position at Point72 was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

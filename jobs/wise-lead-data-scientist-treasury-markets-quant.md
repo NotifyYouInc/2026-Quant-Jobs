@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Data Scientist |
+| Category | Quant Developer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000144344607-lead-data-scientist-treasury-markets-quant) |
 
 ## About This Role
 
-This data scientist position at WISE was posted on 2026-08-19.
+This quant developer position at WISE was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

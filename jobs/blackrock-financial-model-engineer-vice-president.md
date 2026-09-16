@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Machine Learning Engineer |
+| Category | Quant Developer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Mumbai-India/Financial-Model-Engineer--Vice-President_R266321) |
 
 ## About This Role
 
-This machine learning engineer position at Blackrock was posted on 2026-09-03.
+This quant developer position at Blackrock was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 
