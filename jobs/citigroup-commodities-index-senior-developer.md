@@ -1,16 +1,16 @@
-# Performance Engineer at IMC Trading
+# Commodities Index Senior Developer at Citigroup
 
 | Field | Details |
 |-------|---------|
-| Company | [IMC Trading](https://scoutify.ai/companies/imc?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Quant Developer |
 | Posted | 2026-09-10 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/imc/jobs/4871364101) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Commodities-Index-Senior-Developer_26985906-1) |
 
 ## About This Role
 
-This quant developer position at IMC Trading was posted on 2026-09-10.
+This quant developer position at Citigroup was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Performance Engineer at IMC Trading
+# Summer 2027 Market Data Developer Internship at Tradeweb Markets
 
 | Field | Details |
 |-------|---------|
-| Company | [IMC Trading](https://scoutify.ai/companies/imc?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [Tradeweb Markets](https://scoutify.ai/companies/us2-cx-oj108516?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | Jersey City, New Jersey, United States |
 | Category | Quant Developer |
 | Posted | 2026-09-10 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/imc/jobs/4871364101) |
+| Apply | [View on company site](https://ecnf.fa.us2.oraclecloud.com/jobs/#301910) |
 
 ## About This Role
 
-This quant developer position at IMC Trading was posted on 2026-09-10.
+This quant developer position at Tradeweb Markets was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 
