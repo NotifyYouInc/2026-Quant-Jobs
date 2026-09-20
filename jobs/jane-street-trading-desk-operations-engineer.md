@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jane Street](https://scoutify.ai/companies/jane-street?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Hong Kong, Hong Kong |
 | Category | Sales & Trading |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://www.janestreet.com/join-jane-street/apply/8700980002?gh_jid=8700980002) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://www.janestreet.com/join-jane-street/apply/8759009002?gh_jid=8759009002) |
 
 ## About This Role
 
-This sales & trading position at Jane Street was posted on 2026-08-13.
+This sales & trading position at Jane Street was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

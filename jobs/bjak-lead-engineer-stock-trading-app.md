@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | China |
+| Location | United States |
 | Category | Quant Developer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/62608d63-24dd-4ba2-87a7-566435ac8272) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/71ecccff-f812-42f4-9404-5defa8ec49d5) |
 
 ## About This Role
 
-This quant developer position at Bjak was posted on 2026-08-14.
+This quant developer position at Bjak was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 
