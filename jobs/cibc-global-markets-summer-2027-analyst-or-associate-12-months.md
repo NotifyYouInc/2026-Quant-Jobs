@@ -1,16 +1,16 @@
-# Quantitative Developer Intern at Base Power
+# Global Markets, Summer 2027 Analyst or Associate (12 months) at Cibc
 
 | Field | Details |
 |-------|---------|
-| Company | [Base Power](https://scoutify.ai/companies/base-power?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Austin, Texas, United States |
+| Company | [Cibc](https://scoutify.ai/companies/cibc?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Quant Developer |
 | Posted | 2026-09-14 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/base-power/b6b2332e-1226-4575-b2c9-9e5258f2540e) |
+| Apply | [View on company site](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Global-Markets--Summer-2027-Analyst-or-Associate--12-months-_2618796) |
 
 ## About This Role
 
-This quant developer position at Base Power was posted on 2026-09-14.
+This quant developer position at Cibc was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

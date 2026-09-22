@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Engineering Manager |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Quantitative-Development-Manager_R-00272472) |
+| Category | Quant Developer |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Quantitative-Development-Manager_R-00281554-4) |
 
 ## About This Role
 
-This engineering manager position at NatWest Group was posted on 2026-04-20.
+This quant developer position at NatWest Group was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

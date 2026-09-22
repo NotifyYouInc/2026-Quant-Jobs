@@ -1,16 +1,16 @@
-# Quantitative Developer Intern at Base Power
+# Quantitative Developer at Getmidas
 
 | Field | Details |
 |-------|---------|
-| Company | [Base Power](https://scoutify.ai/companies/base-power?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Austin, Texas, United States |
+| Company | [Getmidas](https://scoutify.ai/companies/getmidas?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | Istanbul, Istanbul, Turkey |
 | Category | Quant Developer |
 | Posted | 2026-09-14 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/base-power/b6b2332e-1226-4575-b2c9-9e5258f2540e) |
+| Apply | [View on company site](https://jobs.lever.co/getmidas/06b3a906-b139-41b7-b3a2-b794992af3f2) |
 
 ## About This Role
 
-This quant developer position at Base Power was posted on 2026-09-14.
+This quant developer position at Getmidas was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Quantitative Developer Intern at Base Power
+# Stage - Développeur commando - Finance de Marché H/F   at Coface
 
 | Field | Details |
 |-------|---------|
-| Company | [Base Power](https://scoutify.ai/companies/base-power?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | Austin, Texas, United States |
+| Company | [Coface](https://scoutify.ai/companies/coface?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Location | Bois-Colombes, Île-de-France, France |
 | Category | Quant Developer |
 | Posted | 2026-09-14 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/base-power/b6b2332e-1226-4575-b2c9-9e5258f2540e) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Coface/744000149344109-stage-developpeur-commando-finance-de-marche-hf) |
 
 ## About This Role
 
-This quant developer position at Base Power was posted on 2026-09-14.
+This quant developer position at Coface was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 
