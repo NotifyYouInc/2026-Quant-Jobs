@@ -6,7 +6,7 @@
 | Location | 5 locations |
 | Category | Quant Developer |
 | Posted | 2026-09-01 |
-| Apply | [View on company site](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8170656) |
+| Apply | [View on company site](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7900186) |
 
 ## About This Role
 
