@@ -1,16 +1,16 @@
-# DeFi Algorithmic Trader at Wintermute Trading
+# Wealth Management Strat at Deutsche Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [Wintermute Trading](https://scoutify.ai/companies/wintermute-trading-106987?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
+| Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Quant Developer |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://jobs.lever.co/wintermute-trading/cbc68e87-442f-4724-b3c5-c1f0bb3da80c) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/London-21-Moorfields/Wealth-Management-Strat_R0450285) |
 
 ## About This Role
 
-This quant developer position at Wintermute Trading was posted on 2026-09-02.
+This quant developer position at Deutsche Bank was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

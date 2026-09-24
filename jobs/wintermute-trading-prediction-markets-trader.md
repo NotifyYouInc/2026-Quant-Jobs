@@ -1,16 +1,16 @@
-# DeFi Algorithmic Trader at Wintermute Trading
+# Prediction Markets Trader at Wintermute Trading
 
 | Field | Details |
 |-------|---------|
 | Company | [Wintermute Trading](https://scoutify.ai/companies/wintermute-trading-106987?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Quant Developer |
+| Location | Hong Kong, Hong Kong |
+| Category | Sales & Trading |
 | Posted | 2026-09-02 |
-| Apply | [View on company site](https://jobs.lever.co/wintermute-trading/cbc68e87-442f-4724-b3c5-c1f0bb3da80c) |
+| Apply | [View on company site](https://jobs.lever.co/wintermute-trading/76cca257-0961-4aa7-b234-eeb777196399) |
 
 ## About This Role
 
-This quant developer position at Wintermute Trading was posted on 2026-09-02.
+This sales & trading position at Wintermute Trading was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 
