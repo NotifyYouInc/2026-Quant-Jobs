@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hudson River Trading](https://scoutify.ai/companies/hudson-river-trading?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Dublin, Leinster, Ireland |
-| Category | Quant Developer |
+| Category | Customer Success |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8159996) |
 
 ## About This Role
 
-This quant developer position at Hudson River Trading was posted on 2026-08-28.
+This customer success position at Hudson River Trading was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Clifton, New Jersey, United States |
-| Category | Quant Developer |
+| Category | Customer Success |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Clifton-New-Jersey/Post-Production-Support-Technical-Developer---Investment-Trading-Software_R-796991) |
 
 ## About This Role
 
-This quant developer position at State Street was posted on 2026-08-31.
+This customer success position at State Street was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 
