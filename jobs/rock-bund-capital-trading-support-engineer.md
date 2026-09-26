@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Rock Bund Capital](https://scoutify.ai/companies/rockbund?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Customer Success |
+| Category | Quant Developer |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://job-boards.eu.greenhouse.io/rockbund/jobs/4138367101) |
 
 ## About This Role
 
-This customer success position at Rock Bund Capital was posted on 2026-08-28.
+This quant developer position at Rock Bund Capital was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Meritis](https://scoutify.ai/companies/meritis?utm_source=github&utm_medium=repo&utm_campaign=quant-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Quant Developer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000140630989-commando-python-front-office-hf) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000150375384-commando-python-front-office-hf) |
 
 ## About This Role
 
-This quant developer position at Meritis was posted on 2026-07-30.
+This quant developer position at Meritis was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 
